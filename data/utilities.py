@@ -21,7 +21,7 @@ provinces_df = pd.read_csv(provinces_fname)
 # ============================
 parties_df = pd.read_csv(parties_fname)
 
-# Extending dictionary with parties that participated in elections before 2015
+# Extending dictionary with parties that participated in elections before and after 2015
 CAP_party = { # 1997-2017
     'Id': 'CAP',
     'Long Name (en)': 'Canadian Action Party',
@@ -75,6 +75,8 @@ WLP_party = { # 2007-2010
     'Short Name (en)': 'Work Less Party',
     'Candidate Suffix': 'Work Less Party/Work Less Party'
 }
+
+# New for 2019 elections
 
 NCA_party = {
     'Id': 'NCA',
@@ -145,7 +147,7 @@ parties_df = parties_df.append(
     ignore_index=True)
 
 # As it appears, the idea of 'Candidate Suffix' column wasn't good
-# Fixing it with adding new 'Tail' column which contains party name 'signatures' that I'll
+# Fixing it with addition of new 'Tail' column which contains party name 'signatures' that I'll
 # match against candidate names to find out his/her party affiliation
 parties_df['Tail'] = parties_df['Candidate Suffix'].apply(lambda s: s.rsplit('/', 1)[-1].casefold())
 
@@ -172,7 +174,7 @@ aa3_dict['Tail'] = 'parti protection animaux'
 rhi_dict = parties_df[parties_df['Id'] == 'RHI'].to_dict('records')[0]
 rhi_dict['Tail'] = 'neorhino.ca'
 
-# Ad hoc case for Rhinoceros Party, that was named slightly differently in 2011 data
+# Ad hoc case for Pirate Party, that was named slightly differently in 2011 data
 pir_dict = parties_df[parties_df['Id'] == 'PIR'].to_dict('records')[0]
 pir_dict['Tail'] = 'parti pirate'
 
@@ -304,18 +306,21 @@ def load_table11(year):
         # The order of columns here will be slightly different
         table11_df = pd.merge(table11_df, ids_df, how='left', left_on='FED Name', right_index=True)
 
+    # Removing french part from FEDs names
+    table11_df['FED Name'] = table11_df['FED Name'].map(lambda name: name.split('/', 1)[0])
+
     # Add column with winning party Id, and remove unneeded columns
     # Similarly to parties_df['Tail'], add temporary column for matching Party Id
     table11_df['Tail'] = table11_df['Winner'].apply(lambda s: s.rsplit('/', 1)[-1].casefold())
-    table11_df['Party Id'] = table11_df['Winner'].apply(find_party_id)
+    table11_df['Winning Pid'] = table11_df['Winner'].apply(find_party_id)
     table11_df.drop(columns=['Winner', 'Tail'], inplace=True)
 
-    # Now we have 'Party Id' and 'FED Id' for merging
+    # Now we have 'Winning Pid' and 'FED Id' for merging and looking up
     return table11_df
 
 
 
-# Transormation rules for table_tableau11.csv files
+# Transormation rules for table_tableau12.csv files
 # 2019, 2015, 2011, 2008 - identical column names
 # 2006 and 2004 - different column names
 transformation12 = {
@@ -329,7 +334,7 @@ transformation12 = {
         ],
         'rename': {
             'Province': 'Province Name',
-            'Electoral District/Circonscription': 'FED Name',
+            'Electoral District Name/Nom de circonscription': 'FED Name',
             'Electoral District Number/Numéro de circonscription': 'FED Id',
             'Candidate/Candidat': 'Candidate',
             'Votes Obtained/Votes obtenus': 'Votes'
@@ -400,15 +405,18 @@ def load_table12(year):
         # The order of columns here will be slightly different
         table12_df = pd.merge(table12_df, ids_df, how='left', left_on='FED Name', right_index=True)
 
+    # Removing french part from FEDs names
+    table12_df['FED Name'] = table12_df['FED Name'].map(lambda name: name.split('/', 1)[0])
+
     # Add column with winning party Id, and remove unneeded columns
     # Similarly to parties_df['Tail'], add temporary column for matching Party Id
     table12_df['Tail'] = table12_df['Candidate'].apply(lambda s: s.rsplit('/', 1)[-1].casefold())
-    table12_df['Party Id'] = table12_df['Candidate'].apply(find_party_id)
+    table12_df['Candidate Pid'] = table12_df['Candidate'].apply(find_party_id)
     table12_df.drop(columns=['Candidate', 'Tail'], inplace=True)
 
-    # Removing french part in provinces names and adding province abbreviations (Canada post codes)
+    # Removing french part from provinces names and adding province abbreviations (Canada post codes)
     table12_df['Province Name'] = table12_df['Province Name'].map(lambda name: name.split('/', 1)[0])
-    table12_df['Province'] = table12_df['Province Name'].map(lambda name: provinces_df[provinces_df['Province Name (en)'] == name]['Alpha code'].item())
+    table12_df['Province Id'] = table12_df['Province Name'].map(lambda name: provinces_df[provinces_df['Province Name (en)'] == name]['Alpha code'].item())
 
-    # Now we have 'Party Id' and 'FED Id' for merging, 'Province' for compact display
+    # Now we have 'Province Id', 'Candidate Pid' and 'FED Id' for merging and looking up
     return table12_df

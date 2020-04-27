@@ -1,0 +1,1588 @@
+Province Id,Province Name,FED Id,FED Name,Winning Pid,Ballots,Candidate Pid,Votes
+NL,Newfoundland and Labrador,10001,Avalon,LIB,36574,LIB,16008
+NL,Newfoundland and Labrador,10001,Avalon,LIB,36574,CPC,14749
+NL,Newfoundland and Labrador,10001,Avalon,LIB,36574,NDP,5157
+NL,Newfoundland and Labrador,10001,Avalon,LIB,36574,IND,276
+NL,Newfoundland and Labrador,10001,Avalon,LIB,36574,GRN,218
+NL,Newfoundland and Labrador,10002,Bonavista--Gander--Grand Falls--Windsor,LIB,31308,LIB,17977
+NL,Newfoundland and Labrador,10002,Bonavista--Gander--Grand Falls--Windsor,LIB,31308,CPC,8595
+NL,Newfoundland and Labrador,10002,Bonavista--Gander--Grand Falls--Windsor,LIB,31308,NDP,4306
+NL,Newfoundland and Labrador,10002,Bonavista--Gander--Grand Falls--Windsor,LIB,31308,GRN,279
+NL,Newfoundland and Labrador,10003,Humber--St. Barbe--Baie Verte,LIB,30111,LIB,17119
+NL,Newfoundland and Labrador,10003,Humber--St. Barbe--Baie Verte,LIB,30111,CPC,7559
+NL,Newfoundland and Labrador,10003,Humber--St. Barbe--Baie Verte,LIB,30111,NDP,4751
+NL,Newfoundland and Labrador,10003,Humber--St. Barbe--Baie Verte,LIB,30111,IND,332
+NL,Newfoundland and Labrador,10003,Humber--St. Barbe--Baie Verte,LIB,30111,GRN,253
+NL,Newfoundland and Labrador,10004,Labrador,CPC,10744,CPC,4256
+NL,Newfoundland and Labrador,10004,Labrador,CPC,10744,LIB,4177
+NL,Newfoundland and Labrador,10004,Labrador,CPC,10744,NDP,2120
+NL,Newfoundland and Labrador,10004,Labrador,CPC,10744,GRN,139
+NL,Newfoundland and Labrador,10005,Random--Burin--St. George's,LIB,26128,LIB,12914
+NL,Newfoundland and Labrador,10005,Random--Burin--St. George's,LIB,26128,CPC,8322
+NL,Newfoundland and Labrador,10005,Random--Burin--St. George's,LIB,26128,NDP,4465
+NL,Newfoundland and Labrador,10005,Random--Burin--St. George's,LIB,26128,GRN,307
+NL,Newfoundland and Labrador,10006,St. John's East,NDP,44208,NDP,31388
+NL,Newfoundland and Labrador,10006,St. John's East,NDP,44208,CPC,9198
+NL,Newfoundland and Labrador,10006,St. John's East,NDP,44208,LIB,3019
+NL,Newfoundland and Labrador,10006,St. John's East,NDP,44208,GRN,467
+NL,Newfoundland and Labrador,10007,St. John's South--Mount Pearl,NDP,39093,NDP,18681
+NL,Newfoundland and Labrador,10007,St. John's South--Mount Pearl,NDP,39093,LIB,11130
+NL,Newfoundland and Labrador,10007,St. John's South--Mount Pearl,NDP,39093,CPC,8883
+NL,Newfoundland and Labrador,10007,St. John's South--Mount Pearl,NDP,39093,GRN,291
+PE,Prince Edward Island,11001,Cardigan,LIB,21238,LIB,10486
+PE,Prince Edward Island,11001,Cardigan,LIB,21238,CPC,8107
+PE,Prince Edward Island,11001,Cardigan,LIB,21238,NDP,2164
+PE,Prince Edward Island,11001,Cardigan,LIB,21238,GRN,373
+PE,Prince Edward Island,11002,Charlottetown,LIB,18581,LIB,7292
+PE,Prince Edward Island,11002,Charlottetown,LIB,18581,CPC,6040
+PE,Prince Edward Island,11002,Charlottetown,LIB,18581,NDP,4632
+PE,Prince Edward Island,11002,Charlottetown,LIB,18581,GRN,417
+PE,Prince Edward Island,11002,Charlottetown,LIB,18581,CHP,87
+PE,Prince Edward Island,11003,Egmont,CPC,19308,CPC,10467
+PE,Prince Edward Island,11003,Egmont,CPC,19308,LIB,5997
+PE,Prince Edward Island,11003,Egmont,CPC,19308,NDP,2369
+PE,Prince Edward Island,11003,Egmont,CPC,19308,GRN,320
+PE,Prince Edward Island,11004,Malpeque,LIB,20384,LIB,8605
+PE,Prince Edward Island,11004,Malpeque,LIB,20384,CPC,7934
+PE,Prince Edward Island,11004,Malpeque,LIB,20384,NDP,2970
+PE,Prince Edward Island,11004,Malpeque,LIB,20384,GRN,785
+NS,Nova Scotia,12001,Cape Breton--Canso,LIB,35812,LIB,16478
+NS,Nova Scotia,12001,Cape Breton--Canso,LIB,35812,CPC,10873
+NS,Nova Scotia,12001,Cape Breton--Canso,LIB,35812,NDP,6984
+NS,Nova Scotia,12001,Cape Breton--Canso,LIB,35812,GRN,1141
+NS,Nova Scotia,12002,Central Nova,CPC,38251,CPC,21593
+NS,Nova Scotia,12002,Central Nova,CPC,38251,NDP,9412
+NS,Nova Scotia,12002,Central Nova,CPC,38251,LIB,5614
+NS,Nova Scotia,12002,Central Nova,CPC,38251,GRN,1406
+NS,Nova Scotia,12007,Cumberland--Colchester--Musquodoboit Valley,CPC,40367,CPC,21041
+NS,Nova Scotia,12007,Cumberland--Colchester--Musquodoboit Valley,CPC,40367,NDP,9322
+NS,Nova Scotia,12007,Cumberland--Colchester--Musquodoboit Valley,CPC,40367,LIB,7264
+NS,Nova Scotia,12007,Cumberland--Colchester--Musquodoboit Valley,CPC,40367,GRN,2109
+NS,Nova Scotia,12007,Cumberland--Colchester--Musquodoboit Valley,CPC,40367,CHP,375
+NS,Nova Scotia,12003,Dartmouth--Cole Harbour,NDP,43478,NDP,15678
+NS,Nova Scotia,12003,Dartmouth--Cole Harbour,NDP,43478,LIB,15181
+NS,Nova Scotia,12003,Dartmouth--Cole Harbour,NDP,43478,CPC,10702
+NS,Nova Scotia,12003,Dartmouth--Cole Harbour,NDP,43478,GRN,1662
+NS,Nova Scotia,12004,Halifax,NDP,46228,NDP,23746
+NS,Nova Scotia,12004,Halifax,NDP,46228,LIB,11793
+NS,Nova Scotia,12004,Halifax,NDP,46228,CPC,8276
+NS,Nova Scotia,12004,Halifax,NDP,46228,GRN,2020
+NS,Nova Scotia,12004,Halifax,NDP,46228,ML,152
+NS,Nova Scotia,12005,Halifax West,LIB,45421,LIB,16230
+NS,Nova Scotia,12005,Halifax West,LIB,45421,CPC,13782
+NS,Nova Scotia,12005,Halifax West,LIB,45421,NDP,13239
+NS,Nova Scotia,12005,Halifax West,LIB,45421,GRN,1931
+NS,Nova Scotia,12006,Kings--Hants,LIB,40364,LIB,15887
+NS,Nova Scotia,12006,Kings--Hants,LIB,40364,CPC,14714
+NS,Nova Scotia,12006,Kings--Hants,LIB,40364,NDP,8043
+NS,Nova Scotia,12006,Kings--Hants,LIB,40364,GRN,1520
+NS,Nova Scotia,12008,Sackville--Eastern Shore,NDP,41826,NDP,22483
+NS,Nova Scotia,12008,Sackville--Eastern Shore,NDP,41826,CPC,12662
+NS,Nova Scotia,12008,Sackville--Eastern Shore,NDP,41826,LIB,4673
+NS,Nova Scotia,12008,Sackville--Eastern Shore,NDP,41826,GRN,1762
+NS,Nova Scotia,12009,South Shore--St. Margaret's,CPC,41879,CPC,17948
+NS,Nova Scotia,12009,South Shore--St. Margaret's,CPC,41879,NDP,15033
+NS,Nova Scotia,12009,South Shore--St. Margaret's,CPC,41879,LIB,7037
+NS,Nova Scotia,12009,South Shore--St. Margaret's,CPC,41879,GRN,1579
+NS,Nova Scotia,12010,Sydney--Victoria,LIB,37330,LIB,14788
+NS,Nova Scotia,12010,Sydney--Victoria,LIB,37330,CPC,14023
+NS,Nova Scotia,12010,Sydney--Victoria,LIB,37330,NDP,7049
+NS,Nova Scotia,12010,Sydney--Victoria,LIB,37330,GRN,1191
+NS,Nova Scotia,12011,West Nova,CPC,43310,CPC,20204
+NS,Nova Scotia,12011,West Nova,CPC,43310,LIB,15632
+NS,Nova Scotia,12011,West Nova,CPC,43310,NDP,5631
+NS,Nova Scotia,12011,West Nova,CPC,43310,GRN,1487
+NB,New Brunswick,13001,Acadie--Bathurst,NDP,46609,NDP,32067
+NB,New Brunswick,13001,Acadie--Bathurst,NDP,46609,CPC,7456
+NB,New Brunswick,13001,Acadie--Bathurst,NDP,46609,LIB,6491
+NB,New Brunswick,13002,Beauséjour,LIB,45054,LIB,17399
+NB,New Brunswick,13002,Beauséjour,LIB,45054,CPC,14811
+NB,New Brunswick,13002,Beauséjour,LIB,45054,NDP,10397
+NB,New Brunswick,13002,Beauséjour,LIB,45054,GRN,1913
+NB,New Brunswick,13003,Fredericton,CPC,44798,CPC,21573
+NB,New Brunswick,13003,Fredericton,CPC,44798,NDP,10626
+NB,New Brunswick,13003,Fredericton,CPC,44798,LIB,10336
+NB,New Brunswick,13003,Fredericton,CPC,44798,GRN,1790
+NB,New Brunswick,13003,Fredericton,CPC,44798,IND,266
+NB,New Brunswick,13004,Fundy Royal,CPC,36714,CPC,21206
+NB,New Brunswick,13004,Fundy Royal,CPC,36714,NDP,9845
+NB,New Brunswick,13004,Fundy Royal,CPC,36714,LIB,3668
+NB,New Brunswick,13004,Fundy Royal,CPC,36714,GRN,1757
+NB,New Brunswick,13005,Madawaska--Restigouche,CPC,35574,CPC,14224
+NB,New Brunswick,13005,Madawaska--Restigouche,CPC,35574,LIB,12309
+NB,New Brunswick,13005,Madawaska--Restigouche,CPC,35574,NDP,6562
+NB,New Brunswick,13005,Madawaska--Restigouche,CPC,35574,IND,1290
+NB,New Brunswick,13005,Madawaska--Restigouche,CPC,35574,GRN,612
+NB,New Brunswick,13006,Miramichi,CPC,31092,CPC,16112
+NB,New Brunswick,13006,Miramichi,CPC,31092,NDP,7097
+NB,New Brunswick,13006,Miramichi,CPC,31092,LIB,6800
+NB,New Brunswick,13006,Miramichi,CPC,31092,GRN,735
+NB,New Brunswick,13007,Moncton--Riverview--Dieppe,CPC,49075,CPC,17408
+NB,New Brunswick,13007,Moncton--Riverview--Dieppe,CPC,49075,LIB,15247
+NB,New Brunswick,13007,Moncton--Riverview--Dieppe,CPC,49075,NDP,14053
+NB,New Brunswick,13007,Moncton--Riverview--Dieppe,CPC,49075,GRN,2016
+NB,New Brunswick,13008,New Brunswick Southwest,CPC,32083,CPC,18066
+NB,New Brunswick,13008,New Brunswick Southwest,CPC,32083,NDP,7413
+NB,New Brunswick,13008,New Brunswick Southwest,CPC,32083,LIB,4320
+NB,New Brunswick,13008,New Brunswick Southwest,CPC,32083,GRN,1646
+NB,New Brunswick,13008,New Brunswick Southwest,CPC,32083,CHP,450
+NB,New Brunswick,13009,Saint John,CPC,37289,CPC,18456
+NB,New Brunswick,13009,Saint John,CPC,37289,NDP,11382
+NB,New Brunswick,13009,Saint John,CPC,37289,LIB,5964
+NB,New Brunswick,13009,Saint John,CPC,37289,GRN,1017
+NB,New Brunswick,13009,Saint John,CPC,37289,IND,294
+NB,New Brunswick,13010,Tobique--Mactaquac,CPC,33920,CPC,21108
+NB,New Brunswick,13010,Tobique--Mactaquac,CPC,33920,NDP,6388
+NB,New Brunswick,13010,Tobique--Mactaquac,CPC,33920,LIB,5337
+NB,New Brunswick,13010,Tobique--Mactaquac,CPC,33920,GRN,831
+QC,Quebec,24046,Abitibi--Baie-James--Nunavik--Eeyou,NDP,31648,NDP,13961
+QC,Quebec,24046,Abitibi--Baie-James--Nunavik--Eeyou,NDP,31648,CPC,7089
+QC,Quebec,24046,Abitibi--Baie-James--Nunavik--Eeyou,NDP,31648,BQ,5615
+QC,Quebec,24046,Abitibi--Baie-James--Nunavik--Eeyou,NDP,31648,LIB,3282
+QC,Quebec,24046,Abitibi--Baie-James--Nunavik--Eeyou,NDP,31648,GRN,1221
+QC,Quebec,24001,Abitibi--Témiscamingue,NDP,49005,NDP,24763
+QC,Quebec,24001,Abitibi--Témiscamingue,NDP,49005,BQ,15258
+QC,Quebec,24001,Abitibi--Témiscamingue,NDP,49005,CPC,4777
+QC,Quebec,24001,Abitibi--Témiscamingue,NDP,49005,LIB,2859
+QC,Quebec,24001,Abitibi--Témiscamingue,NDP,49005,GRN,694
+QC,Quebec,24002,Ahuntsic,BQ,47400,BQ,14908
+QC,Quebec,24002,Ahuntsic,BQ,47400,NDP,14200
+QC,Quebec,24002,Ahuntsic,BQ,47400,LIB,13087
+QC,Quebec,24002,Ahuntsic,BQ,47400,CPC,3770
+QC,Quebec,24002,Ahuntsic,BQ,47400,GRN,620
+QC,Quebec,24002,Ahuntsic,BQ,47400,RHI,299
+QC,Quebec,24003,Alfred-Pellan,NDP,55617,NDP,23098
+QC,Quebec,24003,Alfred-Pellan,NDP,55617,BQ,12504
+QC,Quebec,24003,Alfred-Pellan,NDP,55617,LIB,12070
+QC,Quebec,24003,Alfred-Pellan,NDP,55617,CPC,6157
+QC,Quebec,24003,Alfred-Pellan,NDP,55617,GRN,798
+QC,Quebec,24003,Alfred-Pellan,NDP,55617,IND,245
+QC,Quebec,24004,Argenteuil--Papineau--Mirabel,NDP,59055,NDP,25802
+QC,Quebec,24004,Argenteuil--Papineau--Mirabel,NDP,59055,BQ,16880
+QC,Quebec,24004,Argenteuil--Papineau--Mirabel,NDP,59055,LIB,7135
+QC,Quebec,24004,Argenteuil--Papineau--Mirabel,NDP,59055,CPC,6497
+QC,Quebec,24004,Argenteuil--Papineau--Mirabel,NDP,59055,GRN,1506
+QC,Quebec,24004,Argenteuil--Papineau--Mirabel,NDP,59055,IND,342
+QC,Quebec,24004,Argenteuil--Papineau--Mirabel,NDP,59055,ML,117
+QC,Quebec,24054,Bas-Richelieu--Nicolet--Bécancour,BQ,50790,BQ,19046
+QC,Quebec,24054,Bas-Richelieu--Nicolet--Bécancour,BQ,50790,NDP,17705
+QC,Quebec,24054,Bas-Richelieu--Nicolet--Bécancour,BQ,50790,CPC,6478
+QC,Quebec,24054,Bas-Richelieu--Nicolet--Bécancour,BQ,50790,LIB,5024
+QC,Quebec,24054,Bas-Richelieu--Nicolet--Bécancour,BQ,50790,GRN,1479
+QC,Quebec,24005,Beauce,CPC,53531,CPC,26799
+QC,Quebec,24005,Beauce,CPC,53531,NDP,15831
+QC,Quebec,24005,Beauce,CPC,53531,LIB,5833
+QC,Quebec,24005,Beauce,CPC,53531,BQ,3535
+QC,Quebec,24005,Beauce,CPC,53531,GRN,852
+QC,Quebec,24006,Beauharnois--Salaberry,NDP,55569,NDP,23998
+QC,Quebec,24006,Beauharnois--Salaberry,NDP,55569,BQ,18182
+QC,Quebec,24006,Beauharnois--Salaberry,NDP,55569,CPC,7049
+QC,Quebec,24006,Beauharnois--Salaberry,NDP,55569,LIB,4559
+QC,Quebec,24006,Beauharnois--Salaberry,NDP,55569,GRN,1003
+QC,Quebec,24007,Beauport--Limoilou,NDP,53602,NDP,24306
+QC,Quebec,24007,Beauport--Limoilou,NDP,53602,CPC,13845
+QC,Quebec,24007,Beauport--Limoilou,NDP,53602,BQ,10250
+QC,Quebec,24007,Beauport--Limoilou,NDP,53602,LIB,3162
+QC,Quebec,24007,Beauport--Limoilou,NDP,53602,GRN,950
+QC,Quebec,24007,Beauport--Limoilou,NDP,53602,CHP,124
+QC,Quebec,24007,Beauport--Limoilou,NDP,53602,ML,122
+QC,Quebec,24008,Berthier--Maskinongé,NDP,57746,NDP,22403
+QC,Quebec,24008,Berthier--Maskinongé,NDP,57746,BQ,16668
+QC,Quebec,24008,Berthier--Maskinongé,NDP,57746,LIB,8060
+QC,Quebec,24008,Berthier--Maskinongé,NDP,57746,CPC,7904
+QC,Quebec,24008,Berthier--Maskinongé,NDP,57746,GRN,1196
+QC,Quebec,24008,Berthier--Maskinongé,NDP,57746,RHI,373
+QC,Quebec,24009,Bourassa,LIB,38698,LIB,15550
+QC,Quebec,24009,Bourassa,LIB,38698,NDP,12270
+QC,Quebec,24009,Bourassa,LIB,38698,BQ,6105
+QC,Quebec,24009,Bourassa,LIB,38698,CPC,3354
+QC,Quebec,24009,Bourassa,LIB,38698,GRN,613
+QC,Quebec,24009,Bourassa,LIB,38698,ML,121
+QC,Quebec,24010,Brome--Missisquoi,NDP,53133,NDP,22407
+QC,Quebec,24010,Brome--Missisquoi,NDP,53133,LIB,11589
+QC,Quebec,24010,Brome--Missisquoi,NDP,53133,BQ,11173
+QC,Quebec,24010,Brome--Missisquoi,NDP,53133,CPC,6256
+QC,Quebec,24010,Brome--Missisquoi,NDP,53133,GRN,1120
+QC,Quebec,24011,Brossard--La Prairie,NDP,62763,NDP,25512
+QC,Quebec,24011,Brossard--La Prairie,NDP,62763,LIB,16976
+QC,Quebec,24011,Brossard--La Prairie,NDP,62763,BQ,10890
+QC,Quebec,24011,Brossard--La Prairie,NDP,62763,CPC,7806
+QC,Quebec,24011,Brossard--La Prairie,NDP,62763,GRN,900
+QC,Quebec,24011,Brossard--La Prairie,NDP,62763,ML,110
+QC,Quebec,24012,Chambly--Borduas,NDP,69864,NDP,29591
+QC,Quebec,24012,Chambly--Borduas,NDP,69864,BQ,19147
+QC,Quebec,24012,Chambly--Borduas,NDP,69864,IND,7843
+QC,Quebec,24012,Chambly--Borduas,NDP,69864,LIB,6165
+QC,Quebec,24012,Chambly--Borduas,NDP,69864,CPC,5425
+QC,Quebec,24012,Chambly--Borduas,NDP,69864,GRN,1072
+QC,Quebec,24013,Charlesbourg--Haute-Saint-Charles,NDP,54410,NDP,24131
+QC,Quebec,24013,Charlesbourg--Haute-Saint-Charles,NDP,54410,CPC,16220
+QC,Quebec,24013,Charlesbourg--Haute-Saint-Charles,NDP,54410,BQ,8732
+QC,Quebec,24013,Charlesbourg--Haute-Saint-Charles,NDP,54410,LIB,3505
+QC,Quebec,24013,Charlesbourg--Haute-Saint-Charles,NDP,54410,GRN,832
+QC,Quebec,24013,Charlesbourg--Haute-Saint-Charles,NDP,54410,CHP,189
+QC,Quebec,24015,Châteauguay--Saint-Constant,NDP,56809,NDP,29156
+QC,Quebec,24015,Châteauguay--Saint-Constant,NDP,56809,BQ,14957
+QC,Quebec,24015,Châteauguay--Saint-Constant,NDP,56809,CPC,5756
+QC,Quebec,24015,Châteauguay--Saint-Constant,NDP,56809,LIB,5069
+QC,Quebec,24015,Châteauguay--Saint-Constant,NDP,56809,GRN,923
+QC,Quebec,24015,Châteauguay--Saint-Constant,NDP,56809,ML,162
+QC,Quebec,24016,Chicoutimi--Le Fjord,NDP,51636,NDP,19430
+QC,Quebec,24016,Chicoutimi--Le Fjord,NDP,51636,BQ,14675
+QC,Quebec,24016,Chicoutimi--Le Fjord,NDP,51636,CPC,12881
+QC,Quebec,24016,Chicoutimi--Le Fjord,NDP,51636,LIB,2852
+QC,Quebec,24016,Chicoutimi--Le Fjord,NDP,51636,GRN,780
+QC,Quebec,24016,Chicoutimi--Le Fjord,NDP,51636,RHI,340
+QC,Quebec,24017,Compton--Stanstead,NDP,51211,NDP,24097
+QC,Quebec,24017,Compton--Stanstead,NDP,51211,BQ,13179
+QC,Quebec,24017,Compton--Stanstead,NDP,51211,LIB,6132
+QC,Quebec,24017,Compton--Stanstead,NDP,51211,CPC,5982
+QC,Quebec,24017,Compton--Stanstead,NDP,51211,GRN,1241
+QC,Quebec,24018,Drummond,NDP,48298,NDP,24489
+QC,Quebec,24018,Drummond,NDP,48298,BQ,10410
+QC,Quebec,24018,Drummond,NDP,48298,CPC,7555
+QC,Quebec,24018,Drummond,NDP,48298,LIB,3979
+QC,Quebec,24018,Drummond,NDP,48298,GRN,987
+QC,Quebec,24019,Gaspésie--Îles-de-la-Madeleine,NDP,37386,NDP,12427
+QC,Quebec,24019,Gaspésie--Îles-de-la-Madeleine,NDP,37386,BQ,11650
+QC,Quebec,24019,Gaspésie--Îles-de-la-Madeleine,NDP,37386,CPC,6292
+QC,Quebec,24019,Gaspésie--Îles-de-la-Madeleine,NDP,37386,LIB,5533
+QC,Quebec,24019,Gaspésie--Îles-de-la-Madeleine,NDP,37386,GRN,913
+QC,Quebec,24020,Gatineau,NDP,57392,NDP,35262
+QC,Quebec,24020,Gatineau,NDP,57392,BQ,8619
+QC,Quebec,24020,Gatineau,NDP,57392,LIB,7975
+QC,Quebec,24020,Gatineau,NDP,57392,CPC,4532
+QC,Quebec,24020,Gatineau,NDP,57392,GRN,639
+QC,Quebec,24041,Haute-Gaspésie--La Mitis--Matane--Matapédia,BQ,35434,BQ,12633
+QC,Quebec,24041,Haute-Gaspésie--La Mitis--Matane--Matapédia,BQ,35434,LIB,8964
+QC,Quebec,24041,Haute-Gaspésie--La Mitis--Matane--Matapédia,BQ,35434,NDP,7484
+QC,Quebec,24041,Haute-Gaspésie--La Mitis--Matane--Matapédia,BQ,35434,CPC,5253
+QC,Quebec,24041,Haute-Gaspésie--La Mitis--Matane--Matapédia,BQ,35434,GRN,707
+QC,Quebec,24021,Hochelaga,NDP,47047,NDP,22314
+QC,Quebec,24021,Hochelaga,NDP,47047,BQ,14451
+QC,Quebec,24021,Hochelaga,NDP,47047,LIB,5064
+QC,Quebec,24021,Hochelaga,NDP,47047,CPC,3126
+QC,Quebec,24021,Hochelaga,NDP,47047,GRN,798
+QC,Quebec,24021,Hochelaga,NDP,47047,RHI,246
+QC,Quebec,24021,Hochelaga,NDP,47047,COM,180
+QC,Quebec,24021,Hochelaga,NDP,47047,ML,143
+QC,Quebec,24022,Honoré-Mercier,NDP,48856,NDP,17545
+QC,Quebec,24022,Honoré-Mercier,NDP,48856,LIB,14641
+QC,Quebec,24022,Honoré-Mercier,NDP,48856,BQ,8935
+QC,Quebec,24022,Honoré-Mercier,NDP,48856,CPC,5992
+QC,Quebec,24022,Honoré-Mercier,NDP,48856,GRN,770
+QC,Quebec,24022,Honoré-Mercier,NDP,48856,RHI,181
+QC,Quebec,24022,Honoré-Mercier,NDP,48856,ML,170
+QC,Quebec,24023,Hull--Aylmer,NDP,59802,NDP,35194
+QC,Quebec,24023,Hull--Aylmer,NDP,59802,LIB,12051
+QC,Quebec,24023,Hull--Aylmer,NDP,59802,CPC,6058
+QC,Quebec,24023,Hull--Aylmer,NDP,59802,BQ,5019
+QC,Quebec,24023,Hull--Aylmer,NDP,59802,GRN,1125
+QC,Quebec,24024,Jeanne-Le Ber,NDP,52795,NDP,23293
+QC,Quebec,24024,Jeanne-Le Ber,NDP,52795,BQ,12635
+QC,Quebec,24024,Jeanne-Le Ber,NDP,52795,LIB,10054
+QC,Quebec,24024,Jeanne-Le Ber,NDP,52795,CPC,4678
+QC,Quebec,24024,Jeanne-Le Ber,NDP,52795,GRN,1377
+QC,Quebec,24024,Jeanne-Le Ber,NDP,52795,ML,121
+QC,Quebec,24025,Joliette,NDP,58055,NDP,27050
+QC,Quebec,24025,Joliette,NDP,58055,BQ,18804
+QC,Quebec,24025,Joliette,NDP,58055,CPC,5525
+QC,Quebec,24025,Joliette,NDP,58055,LIB,3545
+QC,Quebec,24025,Joliette,NDP,58055,GRN,2227
+QC,Quebec,24026,Jonquière--Alma,NDP,53342,NDP,22900
+QC,Quebec,24026,Jonquière--Alma,NDP,53342,CPC,18569
+QC,Quebec,24026,Jonquière--Alma,NDP,53342,BQ,9554
+QC,Quebec,24026,Jonquière--Alma,NDP,53342,LIB,1043
+QC,Quebec,24026,Jonquière--Alma,NDP,53342,GRN,652
+QC,Quebec,24027,Lac-Saint-Louis,LIB,54395,LIB,18457
+QC,Quebec,24027,Lac-Saint-Louis,LIB,54395,NDP,16253
+QC,Quebec,24027,Lac-Saint-Louis,LIB,54395,CPC,15394
+QC,Quebec,24027,Lac-Saint-Louis,LIB,54395,GRN,2315
+QC,Quebec,24027,Lac-Saint-Louis,LIB,54395,BQ,1689
+QC,Quebec,24028,La Pointe-de-l'Île,NDP,48465,NDP,23033
+QC,Quebec,24028,La Pointe-de-l'Île,NDP,48465,BQ,15475
+QC,Quebec,24028,La Pointe-de-l'Île,NDP,48465,LIB,4369
+QC,Quebec,24028,La Pointe-de-l'Île,NDP,48465,CPC,3664
+QC,Quebec,24028,La Pointe-de-l'Île,NDP,48465,GRN,898
+QC,Quebec,24028,La Pointe-de-l'Île,NDP,48465,ML,213
+QC,Quebec,24029,LaSalle--Émard,NDP,42550,NDP,17691
+QC,Quebec,24029,LaSalle--Émard,NDP,42550,LIB,11172
+QC,Quebec,24029,LaSalle--Émard,NDP,42550,BQ,6151
+QC,Quebec,24029,LaSalle--Émard,NDP,42550,CPC,5516
+QC,Quebec,24029,LaSalle--Émard,NDP,42550,GRN,946
+QC,Quebec,24029,LaSalle--Émard,NDP,42550,ML,288
+QC,Quebec,24029,LaSalle--Émard,NDP,42550,RHI,208
+QC,Quebec,24030,Laurentides--Labelle,NDP,57281,NDP,24800
+QC,Quebec,24030,Laurentides--Labelle,NDP,57281,BQ,17799
+QC,Quebec,24030,Laurentides--Labelle,NDP,57281,LIB,7169
+QC,Quebec,24030,Laurentides--Labelle,NDP,57281,CPC,5246
+QC,Quebec,24030,Laurentides--Labelle,NDP,57281,GRN,1423
+QC,Quebec,24030,Laurentides--Labelle,NDP,57281,ML,149
+QC,Quebec,24031,Laurier--Sainte-Marie,NDP,50584,NDP,23373
+QC,Quebec,24031,Laurier--Sainte-Marie,NDP,50584,BQ,17991
+QC,Quebec,24031,Laurier--Sainte-Marie,NDP,50584,LIB,4976
+QC,Quebec,24031,Laurier--Sainte-Marie,NDP,50584,CPC,1764
+QC,Quebec,24031,Laurier--Sainte-Marie,NDP,50584,GRN,1324
+QC,Quebec,24031,Laurier--Sainte-Marie,NDP,50584,RHI,398
+QC,Quebec,24031,Laurier--Sainte-Marie,NDP,50584,COM,137
+QC,Quebec,24031,Laurier--Sainte-Marie,NDP,50584,ML,77
+QC,Quebec,24031,Laurier--Sainte-Marie,NDP,50584,IND,73
+QC,Quebec,24032,Laval,NDP,51627,NDP,22050
+QC,Quebec,24032,Laval,NDP,51627,BQ,11567
+QC,Quebec,24032,Laval,NDP,51627,LIB,9422
+QC,Quebec,24032,Laval,NDP,51627,CPC,6366
+QC,Quebec,24032,Laval,NDP,51627,GRN,1260
+QC,Quebec,24032,Laval,NDP,51627,ML,224
+QC,Quebec,24033,Laval--Les Îles,NDP,54651,NDP,25703
+QC,Quebec,24033,Laval--Les Îles,NDP,54651,LIB,11108
+QC,Quebec,24033,Laval--Les Îles,NDP,54651,CPC,8587
+QC,Quebec,24033,Laval--Les Îles,NDP,54651,BQ,7022
+QC,Quebec,24033,Laval--Les Îles,NDP,54651,GRN,966
+QC,Quebec,24033,Laval--Les Îles,NDP,54651,PIR,369
+QC,Quebec,24033,Laval--Les Îles,NDP,54651,ML,194
+QC,Quebec,24034,Lévis--Bellechasse,CPC,59629,CPC,25850
+QC,Quebec,24034,Lévis--Bellechasse,CPC,59629,NDP,19890
+QC,Quebec,24034,Lévis--Bellechasse,CPC,59629,BQ,8757
+QC,Quebec,24034,Lévis--Bellechasse,CPC,59629,LIB,3421
+QC,Quebec,24034,Lévis--Bellechasse,CPC,59629,GRN,903
+QC,Quebec,24035,Longueuil--Pierre-Boucher,NDP,52870,NDP,27119
+QC,Quebec,24035,Longueuil--Pierre-Boucher,NDP,52870,BQ,14181
+QC,Quebec,24035,Longueuil--Pierre-Boucher,NDP,52870,LIB,5321
+QC,Quebec,24035,Longueuil--Pierre-Boucher,NDP,52870,CPC,4339
+QC,Quebec,24035,Longueuil--Pierre-Boucher,NDP,52870,GRN,1032
+QC,Quebec,24035,Longueuil--Pierre-Boucher,NDP,52870,ML,228
+QC,Quebec,24036,Lotbinière--Chutes-de-la-Chaudière,CPC,57252,CPC,22460
+QC,Quebec,24036,Lotbinière--Chutes-de-la-Chaudière,CPC,57252,NDP,21683
+QC,Quebec,24036,Lotbinière--Chutes-de-la-Chaudière,CPC,57252,BQ,8381
+QC,Quebec,24036,Lotbinière--Chutes-de-la-Chaudière,CPC,57252,LIB,2866
+QC,Quebec,24036,Lotbinière--Chutes-de-la-Chaudière,CPC,57252,GRN,936
+QC,Quebec,24037,Louis-Hébert,NDP,61105,NDP,23373
+QC,Quebec,24037,Louis-Hébert,NDP,61105,BQ,14640
+QC,Quebec,24037,Louis-Hébert,NDP,61105,CPC,13207
+QC,Quebec,24037,Louis-Hébert,NDP,61105,LIB,8110
+QC,Quebec,24037,Louis-Hébert,NDP,61105,GRN,996
+QC,Quebec,24037,Louis-Hébert,NDP,61105,CHP,143
+QC,Quebec,24038,Louis-Saint-Laurent,NDP,57555,NDP,22629
+QC,Quebec,24038,Louis-Saint-Laurent,NDP,57555,CPC,21334
+QC,Quebec,24038,Louis-Saint-Laurent,NDP,57555,BQ,8148
+QC,Quebec,24038,Louis-Saint-Laurent,NDP,57555,LIB,3612
+QC,Quebec,24038,Louis-Saint-Laurent,NDP,57555,GRN,857
+QC,Quebec,24038,Louis-Saint-Laurent,NDP,57555,CHP,175
+QC,Quebec,24039,Manicouagan,NDP,34114,NDP,16437
+QC,Quebec,24039,Manicouagan,NDP,34114,BQ,10495
+QC,Quebec,24039,Manicouagan,NDP,34114,CPC,3878
+QC,Quebec,24039,Manicouagan,NDP,34114,LIB,1882
+QC,Quebec,24039,Manicouagan,NDP,34114,GRN,898
+QC,Quebec,24040,Marc-Aurèle-Fortin,NDP,59339,NDP,29107
+QC,Quebec,24040,Marc-Aurèle-Fortin,NDP,59339,BQ,15470
+QC,Quebec,24040,Marc-Aurèle-Fortin,NDP,59339,LIB,7035
+QC,Quebec,24040,Marc-Aurèle-Fortin,NDP,59339,CPC,5768
+QC,Quebec,24040,Marc-Aurèle-Fortin,NDP,59339,GRN,1208
+QC,Quebec,24042,Mégantic--L'Érable,CPC,45367,CPC,21931
+QC,Quebec,24042,Mégantic--L'Érable,CPC,45367,NDP,11716
+QC,Quebec,24042,Mégantic--L'Érable,CPC,45367,BQ,7481
+QC,Quebec,24042,Mégantic--L'Érable,CPC,45367,LIB,2601
+QC,Quebec,24042,Mégantic--L'Érable,CPC,45367,GRN,655
+QC,Quebec,24042,Mégantic--L'Érable,CPC,45367,CAP,250
+QC,Quebec,24043,Montcalm,NDP,66192,NDP,34434
+QC,Quebec,24043,Montcalm,NDP,66192,BQ,19609
+QC,Quebec,24043,Montcalm,NDP,66192,CPC,5118
+QC,Quebec,24043,Montcalm,NDP,66192,LIB,3501
+QC,Quebec,24043,Montcalm,NDP,66192,GRN,2347
+QC,Quebec,24058,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,NDP,48222,NDP,17285
+QC,Quebec,24058,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,NDP,48222,CPC,17276
+QC,Quebec,24058,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,NDP,48222,BQ,9550
+QC,Quebec,24058,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,NDP,48222,LIB,2743
+QC,Quebec,24058,Montmagny--L'Islet--Kamouraska--Rivière-du-Loup,NDP,48222,GRN,691
+QC,Quebec,24014,Montmorency--Charlevoix--Haute-Côte-Nord,NDP,47755,NDP,17601
+QC,Quebec,24014,Montmorency--Charlevoix--Haute-Côte-Nord,NDP,47755,BQ,16425
+QC,Quebec,24014,Montmorency--Charlevoix--Haute-Côte-Nord,NDP,47755,CPC,9660
+QC,Quebec,24014,Montmorency--Charlevoix--Haute-Côte-Nord,NDP,47755,LIB,2628
+QC,Quebec,24014,Montmorency--Charlevoix--Haute-Côte-Nord,NDP,47755,GRN,814
+QC,Quebec,24044,Mount Royal,LIB,39319,LIB,16151
+QC,Quebec,24044,Mount Royal,LIB,39319,CPC,13891
+QC,Quebec,24044,Mount Royal,LIB,39319,NDP,6963
+QC,Quebec,24044,Mount Royal,LIB,39319,BQ,1136
+QC,Quebec,24044,Mount Royal,LIB,39319,GRN,683
+QC,Quebec,24044,Mount Royal,LIB,39319,ML,109
+QC,Quebec,24044,Mount Royal,LIB,39319,NOA,74
+QC,Quebec,24045,Notre-Dame-de-Grâce--Lachine,NDP,45623,NDP,17943
+QC,Quebec,24045,Notre-Dame-de-Grâce--Lachine,NDP,45623,LIB,14407
+QC,Quebec,24045,Notre-Dame-de-Grâce--Lachine,NDP,45623,CPC,6574
+QC,Quebec,24045,Notre-Dame-de-Grâce--Lachine,NDP,45623,BQ,3983
+QC,Quebec,24045,Notre-Dame-de-Grâce--Lachine,NDP,45623,GRN,1914
+QC,Quebec,24045,Notre-Dame-de-Grâce--Lachine,NDP,45623,IND,207
+QC,Quebec,24045,Notre-Dame-de-Grâce--Lachine,NDP,45623,ML,131
+QC,Quebec,24047,Outremont,NDP,39149,NDP,21906
+QC,Quebec,24047,Outremont,NDP,39149,LIB,9204
+QC,Quebec,24047,Outremont,NDP,39149,CPC,3408
+QC,Quebec,24047,Outremont,NDP,39149,BQ,3199
+QC,Quebec,24047,Outremont,NDP,39149,GRN,838
+QC,Quebec,24047,Outremont,NDP,39149,RHI,160
+QC,Quebec,24047,Outremont,NDP,39149,COM,143
+QC,Quebec,24048,Papineau,LIB,43330,LIB,16429
+QC,Quebec,24048,Papineau,LIB,43330,NDP,12102
+QC,Quebec,24048,Papineau,LIB,43330,BQ,11091
+QC,Quebec,24048,Papineau,LIB,43330,CPC,2021
+QC,Quebec,24048,Papineau,LIB,43330,GRN,806
+QC,Quebec,24048,Papineau,LIB,43330,ML,228
+QC,Quebec,24048,Papineau,LIB,43330,NOA,95
+QC,Quebec,24049,Pierrefonds--Dollard,NDP,48368,NDP,16390
+QC,Quebec,24049,Pierrefonds--Dollard,NDP,48368,LIB,14632
+QC,Quebec,24049,Pierrefonds--Dollard,NDP,48368,CPC,12901
+QC,Quebec,24049,Pierrefonds--Dollard,NDP,48368,BQ,2392
+QC,Quebec,24049,Pierrefonds--Dollard,NDP,48368,GRN,1710
+QC,Quebec,24050,Pontiac,NDP,49362,NDP,22376
+QC,Quebec,24050,Pontiac,NDP,49362,CPC,14441
+QC,Quebec,24050,Pontiac,NDP,49362,LIB,6242
+QC,Quebec,24050,Pontiac,NDP,49362,BQ,4917
+QC,Quebec,24050,Pontiac,NDP,49362,GRN,849
+QC,Quebec,24050,Pontiac,NDP,49362,ML,124
+QC,Quebec,24051,Portneuf--Jacques-Cartier,NDP,53414,NDP,22387
+QC,Quebec,24051,Portneuf--Jacques-Cartier,NDP,53414,IND,14594
+QC,Quebec,24051,Portneuf--Jacques-Cartier,NDP,53414,BQ,10745
+QC,Quebec,24051,Portneuf--Jacques-Cartier,NDP,53414,LIB,3463
+QC,Quebec,24051,Portneuf--Jacques-Cartier,NDP,53414,GRN,1279
+QC,Quebec,24052,Québec,NDP,53315,NDP,22393
+QC,Quebec,24052,Québec,NDP,53315,BQ,14684
+QC,Quebec,24052,Québec,NDP,53315,CPC,9330
+QC,Quebec,24052,Québec,NDP,53315,LIB,4735
+QC,Quebec,24052,Québec,NDP,53315,GRN,1144
+QC,Quebec,24052,Québec,NDP,53315,CHP,228
+QC,Quebec,24053,Repentigny,NDP,62821,NDP,32131
+QC,Quebec,24053,Repentigny,NDP,62821,BQ,19242
+QC,Quebec,24053,Repentigny,NDP,62821,LIB,4830
+QC,Quebec,24053,Repentigny,NDP,62821,CPC,4606
+QC,Quebec,24053,Repentigny,NDP,62821,GRN,1078
+QC,Quebec,24055,Richmond--Arthabaska,BQ,54174,BQ,18033
+QC,Quebec,24055,Richmond--Arthabaska,BQ,54174,NDP,17316
+QC,Quebec,24055,Richmond--Arthabaska,BQ,54174,CPC,13145
+QC,Quebec,24055,Richmond--Arthabaska,BQ,54174,LIB,3711
+QC,Quebec,24055,Richmond--Arthabaska,BQ,54174,GRN,1098
+QC,Quebec,24056,Rimouski-Neigette--Témiscouata--Les Basques,NDP,43165,NDP,18360
+QC,Quebec,24056,Rimouski-Neigette--Témiscouata--Les Basques,NDP,43165,BQ,13170
+QC,Quebec,24056,Rimouski-Neigette--Témiscouata--Les Basques,NDP,43165,CPC,6218
+QC,Quebec,24056,Rimouski-Neigette--Témiscouata--Les Basques,NDP,43165,LIB,4101
+QC,Quebec,24056,Rimouski-Neigette--Témiscouata--Les Basques,NDP,43165,GRN,867
+QC,Quebec,24057,Rivière-des-Mille-Îles,NDP,53071,NDP,25639
+QC,Quebec,24057,Rivière-des-Mille-Îles,NDP,53071,BQ,14873
+QC,Quebec,24057,Rivière-des-Mille-Îles,NDP,53071,LIB,5300
+QC,Quebec,24057,Rivière-des-Mille-Îles,NDP,53071,CPC,5057
+QC,Quebec,24057,Rivière-des-Mille-Îles,NDP,53071,GRN,1229
+QC,Quebec,24059,Rivière-du-Nord,NDP,54429,NDP,29603
+QC,Quebec,24059,Rivière-du-Nord,NDP,54429,BQ,15105
+QC,Quebec,24059,Rivière-du-Nord,NDP,54429,CPC,4469
+QC,Quebec,24059,Rivière-du-Nord,NDP,54429,LIB,3400
+QC,Quebec,24059,Rivière-du-Nord,NDP,54429,GRN,972
+QC,Quebec,24060,Roberval--Lac-Saint-Jean,CPC,40859,CPC,18438
+QC,Quebec,24060,Roberval--Lac-Saint-Jean,CPC,40859,NDP,11182
+QC,Quebec,24060,Roberval--Lac-Saint-Jean,CPC,40859,BQ,8577
+QC,Quebec,24060,Roberval--Lac-Saint-Jean,CPC,40859,LIB,1615
+QC,Quebec,24060,Roberval--Lac-Saint-Jean,CPC,40859,GRN,553
+QC,Quebec,24061,Rosemont--La Petite-Patrie,NDP,54479,NDP,27484
+QC,Quebec,24061,Rosemont--La Petite-Patrie,NDP,54479,BQ,17702
+QC,Quebec,24061,Rosemont--La Petite-Patrie,NDP,54479,LIB,4920
+QC,Quebec,24061,Rosemont--La Petite-Patrie,NDP,54479,CPC,2328
+QC,Quebec,24061,Rosemont--La Petite-Patrie,NDP,54479,GRN,899
+QC,Quebec,24061,Rosemont--La Petite-Patrie,NDP,54479,RHI,417
+QC,Quebec,24061,Rosemont--La Petite-Patrie,NDP,54479,ML,140
+QC,Quebec,24062,Saint-Bruno--Saint-Hubert,NDP,55358,NDP,24361
+QC,Quebec,24062,Saint-Bruno--Saint-Hubert,NDP,55358,BQ,15384
+QC,Quebec,24062,Saint-Bruno--Saint-Hubert,NDP,55358,LIB,7423
+QC,Quebec,24062,Saint-Bruno--Saint-Hubert,NDP,55358,CPC,5887
+QC,Quebec,24062,Saint-Bruno--Saint-Hubert,NDP,55358,GRN,1523
+QC,Quebec,24063,Saint-Hyacinthe--Bagot,NDP,52363,NDP,26963
+QC,Quebec,24063,Saint-Hyacinthe--Bagot,NDP,52363,BQ,12651
+QC,Quebec,24063,Saint-Hyacinthe--Bagot,NDP,52363,CPC,8108
+QC,Quebec,24063,Saint-Hyacinthe--Bagot,NDP,52363,LIB,2784
+QC,Quebec,24063,Saint-Hyacinthe--Bagot,NDP,52363,GRN,994
+QC,Quebec,24064,Saint-Jean,NDP,53401,NDP,24943
+QC,Quebec,24064,Saint-Jean,NDP,53401,BQ,16023
+QC,Quebec,24064,Saint-Jean,NDP,53401,CPC,5603
+QC,Quebec,24064,Saint-Jean,NDP,53401,LIB,4644
+QC,Quebec,24064,Saint-Jean,NDP,53401,GRN,1326
+QC,Quebec,24065,Saint-Lambert,NDP,44445,NDP,18705
+QC,Quebec,24065,Saint-Lambert,NDP,44445,BQ,11353
+QC,Quebec,24065,Saint-Lambert,NDP,44445,LIB,8463
+QC,Quebec,24065,Saint-Lambert,NDP,44445,CPC,4396
+QC,Quebec,24065,Saint-Lambert,NDP,44445,GRN,944
+QC,Quebec,24066,Saint-Laurent--Cartierville,LIB,41155,LIB,17726
+QC,Quebec,24066,Saint-Laurent--Cartierville,LIB,41155,NDP,11948
+QC,Quebec,24066,Saint-Laurent--Cartierville,LIB,41155,CPC,7124
+QC,Quebec,24066,Saint-Laurent--Cartierville,LIB,41155,BQ,2981
+QC,Quebec,24066,Saint-Laurent--Cartierville,LIB,41155,GRN,857
+QC,Quebec,24066,Saint-Laurent--Cartierville,LIB,41155,ML,176
+QC,Quebec,24067,Saint-Léonard--Saint-Michel,LIB,36940,LIB,15340
+QC,Quebec,24067,Saint-Léonard--Saint-Michel,LIB,36940,NDP,11720
+QC,Quebec,24067,Saint-Léonard--Saint-Michel,LIB,36940,CPC,4991
+QC,Quebec,24067,Saint-Léonard--Saint-Michel,LIB,36940,BQ,3396
+QC,Quebec,24067,Saint-Léonard--Saint-Michel,LIB,36940,GRN,657
+QC,Quebec,24067,Saint-Léonard--Saint-Michel,LIB,36940,ML,162
+QC,Quebec,24068,Saint-Maurice--Champlain,NDP,48871,NDP,18628
+QC,Quebec,24068,Saint-Maurice--Champlain,NDP,48871,BQ,13961
+QC,Quebec,24068,Saint-Maurice--Champlain,NDP,48871,CPC,8447
+QC,Quebec,24068,Saint-Maurice--Champlain,NDP,48871,LIB,5670
+QC,Quebec,24068,Saint-Maurice--Champlain,NDP,48871,GRN,972
+QC,Quebec,24069,Shefford,NDP,54852,NDP,27575
+QC,Quebec,24069,Shefford,NDP,54852,BQ,12615
+QC,Quebec,24069,Shefford,NDP,54852,CPC,7908
+QC,Quebec,24069,Shefford,NDP,54852,LIB,4855
+QC,Quebec,24069,Shefford,NDP,54852,GRN,1022
+QC,Quebec,24070,Sherbrooke,NDP,52580,NDP,22415
+QC,Quebec,24070,Sherbrooke,NDP,52580,BQ,18665
+QC,Quebec,24070,Sherbrooke,NDP,52580,LIB,5020
+QC,Quebec,24070,Sherbrooke,NDP,52580,CPC,4784
+QC,Quebec,24070,Sherbrooke,NDP,52580,GRN,894
+QC,Quebec,24070,Sherbrooke,NDP,52580,RHI,233
+QC,Quebec,24071,Terrebonne--Blainville,NDP,58296,NDP,28260
+QC,Quebec,24071,Terrebonne--Blainville,NDP,58296,BQ,17663
+QC,Quebec,24071,Terrebonne--Blainville,NDP,58296,CPC,5236
+QC,Quebec,24071,Terrebonne--Blainville,NDP,58296,LIB,4893
+QC,Quebec,24071,Terrebonne--Blainville,NDP,58296,GRN,1219
+QC,Quebec,24072,Trois-Rivières,NDP,51253,NDP,26981
+QC,Quebec,24072,Trois-Rivières,NDP,51253,BQ,11987
+QC,Quebec,24072,Trois-Rivières,NDP,51253,CPC,6205
+QC,Quebec,24072,Trois-Rivières,NDP,51253,LIB,3617
+QC,Quebec,24072,Trois-Rivières,NDP,51253,GRN,972
+QC,Quebec,24072,Trois-Rivières,NDP,51253,IND,346
+QC,Quebec,24072,Trois-Rivières,NDP,51253,RHI,256
+QC,Quebec,24073,Vaudreuil-Soulanges,NDP,69968,NDP,30177
+QC,Quebec,24073,Vaudreuil-Soulanges,NDP,69968,BQ,17781
+QC,Quebec,24073,Vaudreuil-Soulanges,NDP,69968,CPC,11360
+QC,Quebec,24073,Vaudreuil-Soulanges,NDP,69968,LIB,8023
+QC,Quebec,24073,Vaudreuil-Soulanges,NDP,69968,GRN,1864
+QC,Quebec,24074,Verchères--Les Patriotes,NDP,57473,NDP,24514
+QC,Quebec,24074,Verchères--Les Patriotes,NDP,57473,BQ,20593
+QC,Quebec,24074,Verchères--Les Patriotes,NDP,57473,LIB,5352
+QC,Quebec,24074,Verchères--Les Patriotes,NDP,57473,CPC,4884
+QC,Quebec,24074,Verchères--Les Patriotes,NDP,57473,GRN,1259
+QC,Quebec,24075,Westmount--Ville-Marie,LIB,41440,LIB,15346
+QC,Quebec,24075,Westmount--Ville-Marie,LIB,41440,NDP,14704
+QC,Quebec,24075,Westmount--Ville-Marie,LIB,41440,CPC,7218
+QC,Quebec,24075,Westmount--Ville-Marie,LIB,41440,BQ,2278
+QC,Quebec,24075,Westmount--Ville-Marie,LIB,41440,GRN,1516
+QC,Quebec,24075,Westmount--Ville-Marie,LIB,41440,RHI,140
+QC,Quebec,24075,Westmount--Ville-Marie,LIB,41440,COM,73
+ON,Ontario,35001,Ajax--Pickering,CPC,56455,CPC,24797
+ON,Ontario,35001,Ajax--Pickering,CPC,56455,LIB,21569
+ON,Ontario,35001,Ajax--Pickering,CPC,56455,NDP,8270
+ON,Ontario,35001,Ajax--Pickering,CPC,56455,GRN,1561
+ON,Ontario,35001,Ajax--Pickering,CPC,56455,UNI,71
+ON,Ontario,35002,Algoma--Manitoulin--Kapuskasing,NDP,36421,NDP,18747
+ON,Ontario,35002,Algoma--Manitoulin--Kapuskasing,NDP,36421,CPC,10991
+ON,Ontario,35002,Algoma--Manitoulin--Kapuskasing,NDP,36421,LIB,5374
+ON,Ontario,35002,Algoma--Manitoulin--Kapuskasing,NDP,36421,GRN,1130
+ON,Ontario,35003,Ancaster--Dundas--Flamborough--Westdale,CPC,59193,CPC,30240
+ON,Ontario,35003,Ancaster--Dundas--Flamborough--Westdale,CPC,59193,LIB,14594
+ON,Ontario,35003,Ancaster--Dundas--Flamborough--Westdale,CPC,59193,NDP,10956
+ON,Ontario,35003,Ancaster--Dundas--Flamborough--Westdale,CPC,59193,GRN,2963
+ON,Ontario,35003,Ancaster--Dundas--Flamborough--Westdale,CPC,59193,LTN,170
+ON,Ontario,35003,Ancaster--Dundas--Flamborough--Westdale,CPC,59193,ML,77
+ON,Ontario,35004,Barrie,CPC,56825,CPC,32121
+ON,Ontario,35004,Barrie,CPC,56825,NDP,11842
+ON,Ontario,35004,Barrie,CPC,56825,LIB,9113
+ON,Ontario,35004,Barrie,CPC,56825,GRN,3266
+ON,Ontario,35004,Barrie,CPC,56825,LTN,150
+ON,Ontario,35004,Barrie,CPC,56825,ML,82
+ON,Ontario,35004,Barrie,CPC,56825,CAP,77
+ON,Ontario,35005,Beaches--East York,NDP,48862,NDP,20265
+ON,Ontario,35005,Beaches--East York,NDP,48862,LIB,14967
+ON,Ontario,35005,Beaches--East York,NDP,48862,CPC,11067
+ON,Ontario,35005,Beaches--East York,NDP,48862,GRN,2240
+ON,Ontario,35005,Beaches--East York,NDP,48862,ML,130
+ON,Ontario,35006,Bramalea--Gore--Malton,CPC,58250,CPC,19907
+ON,Ontario,35006,Bramalea--Gore--Malton,CPC,58250,NDP,19368
+ON,Ontario,35006,Bramalea--Gore--Malton,CPC,58250,LIB,16402
+ON,Ontario,35006,Bramalea--Gore--Malton,CPC,58250,GRN,1748
+ON,Ontario,35006,Bramalea--Gore--Malton,CPC,58250,ML,371
+ON,Ontario,35007,Brampton--Springdale,CPC,51370,CPC,24618
+ON,Ontario,35007,Brampton--Springdale,CPC,51370,LIB,14221
+ON,Ontario,35007,Brampton--Springdale,CPC,51370,NDP,10022
+ON,Ontario,35007,Brampton--Springdale,CPC,51370,GRN,1926
+ON,Ontario,35007,Brampton--Springdale,CPC,51370,COM,219
+ON,Ontario,35008,Brampton West,CPC,63684,CPC,28320
+ON,Ontario,35008,Brampton West,CPC,63684,LIB,22128
+ON,Ontario,35008,Brampton West,CPC,63684,NDP,11225
+ON,Ontario,35008,Brampton West,CPC,63684,GRN,1224
+ON,Ontario,35008,Brampton West,CPC,63684,IND,387
+ON,Ontario,35009,Brant,CPC,57589,CPC,28045
+ON,Ontario,35009,Brant,CPC,57589,NDP,16351
+ON,Ontario,35009,Brant,CPC,57589,LIB,10780
+ON,Ontario,35009,Brant,CPC,57589,GRN,1858
+ON,Ontario,35009,Brant,CPC,57589,IND,174
+ON,Ontario,35009,Brant,CPC,57589,IND,138
+ON,Ontario,35026,Bruce--Grey--Owen Sound,CPC,51281,CPC,28744
+ON,Ontario,35026,Bruce--Grey--Owen Sound,CPC,51281,NDP,9008
+ON,Ontario,35026,Bruce--Grey--Owen Sound,CPC,51281,LIB,8203
+ON,Ontario,35026,Bruce--Grey--Owen Sound,CPC,51281,GRN,5099
+ON,Ontario,35010,Burlington,CPC,61027,CPC,32958
+ON,Ontario,35010,Burlington,CPC,61027,LIB,14154
+ON,Ontario,35010,Burlington,CPC,61027,NDP,11449
+ON,Ontario,35010,Burlington,CPC,61027,GRN,2151
+ON,Ontario,35010,Burlington,CPC,61027,ML,140
+ON,Ontario,35011,Cambridge,CPC,55303,CPC,29394
+ON,Ontario,35011,Cambridge,CPC,55303,NDP,15238
+ON,Ontario,35011,Cambridge,CPC,55303,LIB,8285
+ON,Ontario,35011,Cambridge,CPC,55303,GRN,1978
+ON,Ontario,35011,Cambridge,CPC,55303,ML,153
+ON,Ontario,35012,Carleton--Mississippi Mills,CPC,76969,CPC,43723
+ON,Ontario,35012,Carleton--Mississippi Mills,CPC,76969,LIB,18393
+ON,Ontario,35012,Carleton--Mississippi Mills,CPC,76969,NDP,11223
+ON,Ontario,35012,Carleton--Mississippi Mills,CPC,76969,GRN,3434
+ON,Ontario,35013,Chatham-Kent--Essex,CPC,43672,CPC,23360
+ON,Ontario,35013,Chatham-Kent--Essex,CPC,43672,NDP,11449
+ON,Ontario,35013,Chatham-Kent--Essex,CPC,43672,LIB,7172
+ON,Ontario,35013,Chatham-Kent--Essex,CPC,43672,GRN,1470
+ON,Ontario,35015,Davenport,NDP,39489,NDP,21096
+ON,Ontario,35015,Davenport,NDP,39489,LIB,10946
+ON,Ontario,35015,Davenport,NDP,39489,CPC,5573
+ON,Ontario,35015,Davenport,NDP,39489,GRN,1344
+ON,Ontario,35015,Davenport,NDP,39489,COM,167
+ON,Ontario,35015,Davenport,NDP,39489,AA,128
+ON,Ontario,35016,Don Valley East,CPC,39430,CPC,14422
+ON,Ontario,35016,Don Valley East,CPC,39430,LIB,13552
+ON,Ontario,35016,Don Valley East,CPC,39430,NDP,9878
+ON,Ontario,35016,Don Valley East,CPC,39430,GRN,1114
+ON,Ontario,35016,Don Valley East,CPC,39430,CHP,246
+ON,Ontario,35017,Don Valley West,CPC,53658,CPC,22962
+ON,Ontario,35017,Don Valley West,CPC,53658,LIB,22351
+ON,Ontario,35017,Don Valley West,CPC,53658,NDP,6280
+ON,Ontario,35017,Don Valley West,CPC,53658,GRN,1703
+ON,Ontario,35017,Don Valley West,CPC,53658,COM,186
+ON,Ontario,35018,Dufferin--Caledon,CPC,48736,CPC,28647
+ON,Ontario,35018,Dufferin--Caledon,CPC,48736,GRN,7132
+ON,Ontario,35018,Dufferin--Caledon,CPC,48736,NDP,6409
+ON,Ontario,35018,Dufferin--Caledon,CPC,48736,LIB,6361
+ON,Ontario,35014,Durham,CPC,58451,CPC,31737
+ON,Ontario,35014,Durham,CPC,58451,NDP,12277
+ON,Ontario,35014,Durham,CPC,58451,LIB,10387
+ON,Ontario,35014,Durham,CPC,58451,GRN,3134
+ON,Ontario,35014,Durham,CPC,58451,CHP,462
+ON,Ontario,35014,Durham,CPC,58451,LTN,187
+ON,Ontario,35019,Eglinton--Lawrence,CPC,48691,CPC,22652
+ON,Ontario,35019,Eglinton--Lawrence,CPC,48691,LIB,18590
+ON,Ontario,35019,Eglinton--Lawrence,CPC,48691,NDP,5613
+ON,Ontario,35019,Eglinton--Lawrence,CPC,48691,GRN,1534
+ON,Ontario,35020,Elgin--Middlesex--London,CPC,50819,CPC,29147
+ON,Ontario,35020,Elgin--Middlesex--London,CPC,50819,NDP,12439
+ON,Ontario,35020,Elgin--Middlesex--London,CPC,50819,LIB,6812
+ON,Ontario,35020,Elgin--Middlesex--London,CPC,50819,GRN,1529
+ON,Ontario,35020,Elgin--Middlesex--London,CPC,50819,CHP,582
+ON,Ontario,35020,Elgin--Middlesex--London,CPC,50819,CAP,140
+ON,Ontario,35021,Essex,CPC,52930,CPC,25327
+ON,Ontario,35021,Essex,CPC,52930,NDP,18538
+ON,Ontario,35021,Essex,CPC,52930,LIB,7465
+ON,Ontario,35021,Essex,CPC,52930,GRN,1290
+ON,Ontario,35021,Essex,CPC,52930,ML,77
+ON,Ontario,35022,Etobicoke Centre,CPC,52794,CPC,21644
+ON,Ontario,35022,Etobicoke Centre,CPC,52794,LIB,21618
+ON,Ontario,35022,Etobicoke Centre,CPC,52794,NDP,7735
+ON,Ontario,35022,Etobicoke Centre,CPC,52794,GRN,1377
+ON,Ontario,35022,Etobicoke Centre,CPC,52794,ML,149
+ON,Ontario,35023,Etobicoke--Lakeshore,CPC,54763,CPC,21997
+ON,Ontario,35023,Etobicoke--Lakeshore,CPC,54763,LIB,19128
+ON,Ontario,35023,Etobicoke--Lakeshore,CPC,54763,NDP,11046
+ON,Ontario,35023,Etobicoke--Lakeshore,CPC,54763,GRN,2159
+ON,Ontario,35023,Etobicoke--Lakeshore,CPC,54763,ML,190
+ON,Ontario,35024,Etobicoke North,LIB,32514,LIB,13665
+ON,Ontario,35024,Etobicoke North,LIB,32514,CPC,10357
+ON,Ontario,35024,Etobicoke North,LIB,32514,NDP,7630
+ON,Ontario,35024,Etobicoke North,LIB,32514,LTN,208
+ON,Ontario,35024,Etobicoke North,LIB,32514,ML,189
+ON,Ontario,35024,Etobicoke North,LIB,32514,CHP,186
+ON,Ontario,35025,Glengarry--Prescott--Russell,CPC,58034,CPC,28174
+ON,Ontario,35025,Glengarry--Prescott--Russell,CPC,58034,LIB,17705
+ON,Ontario,35025,Glengarry--Prescott--Russell,CPC,58034,NDP,9608
+ON,Ontario,35025,Glengarry--Prescott--Russell,CPC,58034,GRN,2049
+ON,Ontario,35025,Glengarry--Prescott--Russell,CPC,58034,LTN,194
+ON,Ontario,35027,Guelph,LIB,59281,LIB,25588
+ON,Ontario,35027,Guelph,LIB,59281,CPC,19352
+ON,Ontario,35027,Guelph,LIB,59281,NDP,9880
+ON,Ontario,35027,Guelph,LIB,59281,GRN,3619
+ON,Ontario,35027,Guelph,LIB,59281,LTN,192
+ON,Ontario,35027,Guelph,LIB,59281,MAR,170
+ON,Ontario,35027,Guelph,LIB,59281,AA,116
+ON,Ontario,35027,Guelph,LIB,59281,COM,104
+ON,Ontario,35028,Haldimand--Norfolk,CPC,50622,CPC,25655
+ON,Ontario,35028,Haldimand--Norfolk,CPC,50622,LIB,12549
+ON,Ontario,35028,Haldimand--Norfolk,CPC,50622,NDP,10062
+ON,Ontario,35028,Haldimand--Norfolk,CPC,50622,GRN,1665
+ON,Ontario,35028,Haldimand--Norfolk,CPC,50622,CHP,435
+ON,Ontario,35029,Haliburton--Kawartha Lakes--Brock,CPC,58791,CPC,35192
+ON,Ontario,35029,Haliburton--Kawartha Lakes--Brock,CPC,58791,NDP,12934
+ON,Ontario,35029,Haliburton--Kawartha Lakes--Brock,CPC,58791,LIB,7539
+ON,Ontario,35029,Haliburton--Kawartha Lakes--Brock,CPC,58791,GRN,2963
+ON,Ontario,35030,Halton,CPC,81394,CPC,44214
+ON,Ontario,35030,Halton,CPC,81394,LIB,20903
+ON,Ontario,35030,Halton,CPC,81394,NDP,12960
+ON,Ontario,35030,Halton,CPC,81394,GRN,2778
+ON,Ontario,35030,Halton,CPC,81394,CHP,249
+ON,Ontario,35031,Hamilton Centre,NDP,42133,NDP,23849
+ON,Ontario,35031,Hamilton Centre,NDP,42133,CPC,11020
+ON,Ontario,35031,Hamilton Centre,NDP,42133,LIB,5912
+ON,Ontario,35031,Hamilton Centre,NDP,42133,MAR,780
+ON,Ontario,35031,Hamilton Centre,NDP,42133,ML,252
+ON,Ontario,35032,Hamilton East--Stoney Creek,NDP,48905,NDP,21931
+ON,Ontario,35032,Hamilton East--Stoney Creek,NDP,48905,CPC,17567
+ON,Ontario,35032,Hamilton East--Stoney Creek,NDP,48905,LIB,6411
+ON,Ontario,35032,Hamilton East--Stoney Creek,NDP,48905,GRN,1450
+ON,Ontario,35032,Hamilton East--Stoney Creek,NDP,48905,PC,468
+ON,Ontario,35032,Hamilton East--Stoney Creek,NDP,48905,LTN,385
+ON,Ontario,35032,Hamilton East--Stoney Creek,NDP,48905,COM,138
+ON,Ontario,35032,Hamilton East--Stoney Creek,NDP,48905,ML,95
+ON,Ontario,35032,Hamilton East--Stoney Creek,NDP,48905,CAP,92
+ON,Ontario,35033,Hamilton Mountain,NDP,54525,NDP,25595
+ON,Ontario,35033,Hamilton Mountain,NDP,54525,CPC,17936
+ON,Ontario,35033,Hamilton Mountain,NDP,54525,LIB,8787
+ON,Ontario,35033,Hamilton Mountain,NDP,54525,GRN,1505
+ON,Ontario,35033,Hamilton Mountain,NDP,54525,CHP,270
+ON,Ontario,35033,Hamilton Mountain,NDP,54525,IND,171
+ON,Ontario,35034,Huron--Bruce,CPC,53488,CPC,29255
+ON,Ontario,35034,Huron--Bruce,CPC,53488,NDP,13493
+ON,Ontario,35034,Huron--Bruce,CPC,53488,LIB,8784
+ON,Ontario,35034,Huron--Bruce,CPC,53488,GRN,1455
+ON,Ontario,35034,Huron--Bruce,CPC,53488,IND,254
+ON,Ontario,35035,Kenora,CPC,24706,CPC,11567
+ON,Ontario,35035,Kenora,CPC,24706,NDP,6855
+ON,Ontario,35035,Kenora,CPC,24706,LIB,5381
+ON,Ontario,35035,Kenora,CPC,24706,GRN,636
+ON,Ontario,35035,Kenora,CPC,24706,IND,147
+ON,Ontario,35036,Kingston and the Islands,LIB,60876,LIB,23842
+ON,Ontario,35036,Kingston and the Islands,LIB,60876,CPC,21189
+ON,Ontario,35036,Kingston and the Islands,LIB,60876,NDP,13065
+ON,Ontario,35036,Kingston and the Islands,LIB,60876,GRN,2561
+ON,Ontario,35037,Kitchener Centre,CPC,50018,CPC,21119
+ON,Ontario,35037,Kitchener Centre,CPC,50018,LIB,15592
+ON,Ontario,35037,Kitchener Centre,CPC,50018,NDP,10742
+ON,Ontario,35037,Kitchener Centre,CPC,50018,GRN,1972
+ON,Ontario,35037,Kitchener Centre,CPC,50018,IND,199
+ON,Ontario,35037,Kitchener Centre,CPC,50018,COM,93
+ON,Ontario,35037,Kitchener Centre,CPC,50018,ML,92
+ON,Ontario,35038,Kitchener--Conestoga,CPC,53575,CPC,28902
+ON,Ontario,35038,Kitchener--Conestoga,CPC,53575,NDP,11665
+ON,Ontario,35038,Kitchener--Conestoga,CPC,53575,LIB,10653
+ON,Ontario,35038,Kitchener--Conestoga,CPC,53575,GRN,2184
+ON,Ontario,35039,Kitchener--Waterloo,CPC,66399,CPC,27039
+ON,Ontario,35039,Kitchener--Waterloo,CPC,66399,LIB,24895
+ON,Ontario,35039,Kitchener--Waterloo,CPC,66399,NDP,10606
+ON,Ontario,35039,Kitchener--Waterloo,CPC,66399,GRN,3158
+ON,Ontario,35039,Kitchener--Waterloo,CPC,66399,PIR,245
+ON,Ontario,35039,Kitchener--Waterloo,CPC,66399,IND,174
+ON,Ontario,35039,Kitchener--Waterloo,CPC,66399,ML,66
+ON,Ontario,35046,Lambton--Kent--Middlesex,CPC,51452,CPC,29546
+ON,Ontario,35046,Lambton--Kent--Middlesex,CPC,51452,NDP,12299
+ON,Ontario,35046,Lambton--Kent--Middlesex,CPC,51452,LIB,7264
+ON,Ontario,35046,Lambton--Kent--Middlesex,CPC,51452,GRN,1701
+ON,Ontario,35046,Lambton--Kent--Middlesex,CPC,51452,CHP,413
+ON,Ontario,35040,Lanark--Frontenac--Lennox and Addington,CPC,59110,CPC,33754
+ON,Ontario,35040,Lanark--Frontenac--Lennox and Addington,CPC,59110,NDP,12174
+ON,Ontario,35040,Lanark--Frontenac--Lennox and Addington,CPC,59110,LIB,9940
+ON,Ontario,35040,Lanark--Frontenac--Lennox and Addington,CPC,59110,GRN,2702
+ON,Ontario,35040,Lanark--Frontenac--Lennox and Addington,CPC,59110,IND,370
+ON,Ontario,35041,Leeds--Grenville,CPC,49479,CPC,29991
+ON,Ontario,35041,Leeds--Grenville,CPC,49479,NDP,9033
+ON,Ontario,35041,Leeds--Grenville,CPC,49479,LIB,7839
+ON,Ontario,35041,Leeds--Grenville,CPC,49479,GRN,2460
+ON,Ontario,35042,London--Fanshawe,NDP,42849,NDP,21689
+ON,Ontario,35042,London--Fanshawe,NDP,42849,CPC,14294
+ON,Ontario,35042,London--Fanshawe,NDP,42849,LIB,4893
+ON,Ontario,35042,London--Fanshawe,NDP,42849,GRN,1202
+ON,Ontario,35042,London--Fanshawe,NDP,42849,CHP,535
+ON,Ontario,35043,London North Centre,CPC,52904,CPC,19468
+ON,Ontario,35043,London North Centre,CPC,52904,LIB,17803
+ON,Ontario,35043,London North Centre,CPC,52904,NDP,12996
+ON,Ontario,35043,London North Centre,CPC,52904,GRN,2177
+ON,Ontario,35043,London North Centre,CPC,52904,AA,229
+ON,Ontario,35044,London West,CPC,62477,CPC,27675
+ON,Ontario,35044,London West,CPC,62477,LIB,16652
+ON,Ontario,35044,London West,CPC,62477,NDP,16109
+ON,Ontario,35044,London West,CPC,62477,GRN,1703
+ON,Ontario,35044,London West,CPC,62477,UNI,65
+ON,Ontario,35045,Markham--Unionville,LIB,50178,LIB,19429
+ON,Ontario,35045,Markham--Unionville,LIB,50178,CPC,17734
+ON,Ontario,35045,Markham--Unionville,LIB,50178,NDP,10897
+ON,Ontario,35045,Markham--Unionville,LIB,50178,GRN,1597
+ON,Ontario,35045,Markham--Unionville,LIB,50178,LTN,231
+ON,Ontario,35047,Mississauga--Brampton South,CPC,53198,CPC,23632
+ON,Ontario,35047,Mississauga--Brampton South,CPC,53198,LIB,18579
+ON,Ontario,35047,Mississauga--Brampton South,CPC,53198,NDP,9465
+ON,Ontario,35047,Mississauga--Brampton South,CPC,53198,GRN,1044
+ON,Ontario,35047,Mississauga--Brampton South,CPC,53198,ML,127
+ON,Ontario,35048,Mississauga East--Cooksville,CPC,47314,CPC,18796
+ON,Ontario,35048,Mississauga East--Cooksville,CPC,47314,LIB,18120
+ON,Ontario,35048,Mississauga East--Cooksville,CPC,47314,NDP,8836
+ON,Ontario,35048,Mississauga East--Cooksville,CPC,47314,GRN,1032
+ON,Ontario,35048,Mississauga East--Cooksville,CPC,47314,ML,241
+ON,Ontario,35049,Mississauga--Erindale,CPC,63671,CPC,29793
+ON,Ontario,35049,Mississauga--Erindale,CPC,63671,LIB,21541
+ON,Ontario,35049,Mississauga--Erindale,CPC,63671,NDP,10327
+ON,Ontario,35049,Mississauga--Erindale,CPC,63671,GRN,1694
+ON,Ontario,35049,Mississauga--Erindale,CPC,63671,ML,99
+ON,Ontario,35050,Mississauga South,CPC,49652,CPC,22991
+ON,Ontario,35050,Mississauga South,CPC,49652,LIB,18393
+ON,Ontario,35050,Mississauga South,CPC,49652,NDP,6354
+ON,Ontario,35050,Mississauga South,CPC,49652,GRN,1532
+ON,Ontario,35050,Mississauga South,CPC,49652,NOA,194
+ON,Ontario,35051,Mississauga--Streetsville,CPC,50607,CPC,22104
+ON,Ontario,35051,Mississauga--Streetsville,CPC,50607,LIB,18651
+ON,Ontario,35051,Mississauga--Streetsville,CPC,50607,NDP,7834
+ON,Ontario,35051,Mississauga--Streetsville,CPC,50607,GRN,1802
+ON,Ontario,35052,Nepean--Carleton,CPC,80117,CPC,43477
+ON,Ontario,35052,Nepean--Carleton,CPC,80117,LIB,20146
+ON,Ontario,35052,Nepean--Carleton,CPC,80117,NDP,12962
+ON,Ontario,35052,Nepean--Carleton,CPC,80117,GRN,3260
+ON,Ontario,35053,Newmarket--Aurora,CPC,58421,CPC,31600
+ON,Ontario,35053,Newmarket--Aurora,CPC,58421,LIB,13908
+ON,Ontario,35053,Newmarket--Aurora,CPC,58421,NDP,8886
+ON,Ontario,35053,Newmarket--Aurora,CPC,58421,GRN,2628
+ON,Ontario,35053,Newmarket--Aurora,CPC,58421,PC,998
+ON,Ontario,35053,Newmarket--Aurora,CPC,58421,AA,182
+ON,Ontario,35054,Niagara Falls,CPC,54244,CPC,28748
+ON,Ontario,35054,Niagara Falls,CPC,54244,NDP,12681
+ON,Ontario,35054,Niagara Falls,CPC,54244,LIB,10206
+ON,Ontario,35054,Niagara Falls,CPC,54244,GRN,2086
+ON,Ontario,35054,Niagara Falls,CPC,54244,CHP,259
+ON,Ontario,35055,Niagara West--Glanbrook,CPC,59057,CPC,33701
+ON,Ontario,35055,Niagara West--Glanbrook,CPC,59057,NDP,12734
+ON,Ontario,35055,Niagara West--Glanbrook,CPC,59057,LIB,8699
+ON,Ontario,35055,Niagara West--Glanbrook,CPC,59057,GRN,2530
+ON,Ontario,35055,Niagara West--Glanbrook,CPC,59057,CHP,1199
+ON,Ontario,35056,Nickel Belt,NDP,44859,NDP,24566
+ON,Ontario,35056,Nickel Belt,NDP,44859,CPC,12503
+ON,Ontario,35056,Nickel Belt,NDP,44859,LIB,6308
+ON,Ontario,35056,Nickel Belt,NDP,44859,GRN,1252
+ON,Ontario,35056,Nickel Belt,NDP,44859,ML,59
+ON,Ontario,35057,Nipissing--Timiskaming,CPC,42496,CPC,15495
+ON,Ontario,35057,Nipissing--Timiskaming,CPC,42496,LIB,15477
+ON,Ontario,35057,Nipissing--Timiskaming,CPC,42496,NDP,8781
+ON,Ontario,35057,Nipissing--Timiskaming,CPC,42496,GRN,2518
+ON,Ontario,35058,Northumberland--Quinte West,CPC,61218,CPC,32853
+ON,Ontario,35058,Northumberland--Quinte West,CPC,61218,LIB,12822
+ON,Ontario,35058,Northumberland--Quinte West,CPC,61218,NDP,12626
+ON,Ontario,35058,Northumberland--Quinte West,CPC,61218,GRN,2733
+ON,Ontario,35059,Oak Ridges--Markham,CPC,90890,CPC,46241
+ON,Ontario,35059,Oak Ridges--Markham,CPC,90890,LIB,25561
+ON,Ontario,35059,Oak Ridges--Markham,CPC,90890,NDP,15229
+ON,Ontario,35059,Oak Ridges--Markham,CPC,90890,GRN,2349
+ON,Ontario,35059,Oak Ridges--Markham,CPC,90890,PC,1080
+ON,Ontario,35060,Oakville,CPC,58411,CPC,30068
+ON,Ontario,35060,Oakville,CPC,58411,LIB,17890
+ON,Ontario,35060,Oakville,CPC,58411,NDP,8117
+ON,Ontario,35060,Oakville,CPC,58411,GRN,2140
+ON,Ontario,35061,Oshawa,CPC,50934,CPC,26034
+ON,Ontario,35061,Oshawa,CPC,50934,NDP,19212
+ON,Ontario,35061,Oshawa,CPC,50934,LIB,3536
+ON,Ontario,35061,Oshawa,CPC,50934,GRN,1631
+ON,Ontario,35061,Oshawa,CPC,50934,LTN,260
+ON,Ontario,35061,Oshawa,CPC,50934,ML,61
+ON,Ontario,35062,Ottawa Centre,NDP,65135,NDP,33805
+ON,Ontario,35062,Ottawa Centre,NDP,65135,CPC,14063
+ON,Ontario,35062,Ottawa Centre,NDP,65135,LIB,13049
+ON,Ontario,35062,Ottawa Centre,NDP,65135,GRN,3262
+ON,Ontario,35062,Ottawa Centre,NDP,65135,MAR,326
+ON,Ontario,35062,Ottawa Centre,NDP,65135,IND,210
+ON,Ontario,35062,Ottawa Centre,NDP,65135,COM,109
+ON,Ontario,35062,Ottawa Centre,NDP,65135,ML,44
+ON,Ontario,35063,Ottawa--Orléans,CPC,64393,CPC,28584
+ON,Ontario,35063,Ottawa--Orléans,CPC,64393,LIB,24649
+ON,Ontario,35063,Ottawa--Orléans,CPC,64393,NDP,9086
+ON,Ontario,35063,Ottawa--Orléans,CPC,64393,GRN,1839
+ON,Ontario,35064,Ottawa South,LIB,59270,LIB,25963
+ON,Ontario,35064,Ottawa South,LIB,59270,CPC,19634
+ON,Ontario,35064,Ottawa South,LIB,59270,NDP,10712
+ON,Ontario,35064,Ottawa South,LIB,59270,GRN,1787
+ON,Ontario,35064,Ottawa South,LIB,59270,PC,513
+ON,Ontario,35064,Ottawa South,LIB,59270,PIR,382
+ON,Ontario,35065,Ottawa--Vanier,LIB,52738,LIB,20009
+ON,Ontario,35065,Ottawa--Vanier,LIB,52738,NDP,15391
+ON,Ontario,35065,Ottawa--Vanier,LIB,52738,CPC,14184
+ON,Ontario,35065,Ottawa--Vanier,LIB,52738,GRN,2716
+ON,Ontario,35065,Ottawa--Vanier,LIB,52738,ML,122
+ON,Ontario,35066,Ottawa West--Nepean,CPC,56715,CPC,25226
+ON,Ontario,35066,Ottawa West--Nepean,CPC,56715,LIB,17790
+ON,Ontario,35066,Ottawa West--Nepean,CPC,56715,NDP,11128
+ON,Ontario,35066,Ottawa West--Nepean,CPC,56715,GRN,2279
+ON,Ontario,35067,Oxford,CPC,47671,CPC,27973
+ON,Ontario,35067,Oxford,CPC,47671,NDP,12164
+ON,Ontario,35067,Oxford,CPC,47671,LIB,4521
+ON,Ontario,35067,Oxford,CPC,47671,GRN,2058
+ON,Ontario,35067,Oxford,CPC,47671,CHP,776
+ON,Ontario,35068,Parkdale--High Park,NDP,51161,NDP,24046
+ON,Ontario,35068,Parkdale--High Park,NDP,51161,LIB,16757
+ON,Ontario,35068,Parkdale--High Park,NDP,51161,CPC,7924
+ON,Ontario,35068,Parkdale--High Park,NDP,51161,GRN,1666
+ON,Ontario,35068,Parkdale--High Park,NDP,51161,CHP,251
+ON,Ontario,35068,Parkdale--High Park,NDP,51161,MAR,215
+ON,Ontario,35068,Parkdale--High Park,NDP,51161,ML,86
+ON,Ontario,35069,Parry Sound--Muskoka,CPC,46542,CPC,25864
+ON,Ontario,35069,Parry Sound--Muskoka,CPC,46542,NDP,11217
+ON,Ontario,35069,Parry Sound--Muskoka,CPC,46542,LIB,5330
+ON,Ontario,35069,Parry Sound--Muskoka,CPC,46542,GRN,3776
+ON,Ontario,35069,Parry Sound--Muskoka,CPC,46542,IND,168
+ON,Ontario,35069,Parry Sound--Muskoka,CPC,46542,ML,54
+ON,Ontario,35070,Perth--Wellington,CPC,46580,CPC,25281
+ON,Ontario,35070,Perth--Wellington,CPC,46580,NDP,9861
+ON,Ontario,35070,Perth--Wellington,CPC,46580,LIB,8341
+ON,Ontario,35070,Perth--Wellington,CPC,46580,GRN,2112
+ON,Ontario,35070,Perth--Wellington,CPC,46580,CHP,806
+ON,Ontario,35071,Peterborough,CPC,59348,CPC,29393
+ON,Ontario,35071,Peterborough,CPC,59348,NDP,14723
+ON,Ontario,35071,Peterborough,CPC,59348,LIB,12664
+ON,Ontario,35071,Peterborough,CPC,59348,GRN,2105
+ON,Ontario,35071,Peterborough,CPC,59348,NOA,189
+ON,Ontario,35071,Peterborough,CPC,59348,CAP,104
+ON,Ontario,35072,Pickering--Scarborough East,CPC,48072,CPC,19220
+ON,Ontario,35072,Pickering--Scarborough East,CPC,48072,LIB,18013
+ON,Ontario,35072,Pickering--Scarborough East,CPC,48072,NDP,8932
+ON,Ontario,35072,Pickering--Scarborough East,CPC,48072,GRN,1751
+ON,Ontario,35073,Prince Edward--Hastings,CPC,54778,CPC,29062
+ON,Ontario,35073,Prince Edward--Hastings,CPC,54778,NDP,12940
+ON,Ontario,35073,Prince Edward--Hastings,CPC,54778,LIB,10230
+ON,Ontario,35073,Prince Edward--Hastings,CPC,54778,GRN,1887
+ON,Ontario,35073,Prince Edward--Hastings,CPC,54778,IND,283
+ON,Ontario,35073,Prince Edward--Hastings,CPC,54778,PC,171
+ON,Ontario,35074,Renfrew--Nipissing--Pembroke,CPC,51564,CPC,27462
+ON,Ontario,35074,Renfrew--Nipissing--Pembroke,CPC,51564,IND,9611
+ON,Ontario,35074,Renfrew--Nipissing--Pembroke,CPC,51564,NDP,6903
+ON,Ontario,35074,Renfrew--Nipissing--Pembroke,CPC,51564,LIB,6545
+ON,Ontario,35074,Renfrew--Nipissing--Pembroke,CPC,51564,GRN,877
+ON,Ontario,35075,Richmond Hill,CPC,50235,CPC,22078
+ON,Ontario,35075,Richmond Hill,CPC,50235,LIB,17671
+ON,Ontario,35075,Richmond Hill,CPC,50235,NDP,8433
+ON,Ontario,35075,Richmond Hill,CPC,50235,GRN,1832
+ON,Ontario,35076,St. Catharines,CPC,50500,CPC,25571
+ON,Ontario,35076,St. Catharines,CPC,50500,NDP,11973
+ON,Ontario,35076,St. Catharines,CPC,50500,LIB,10358
+ON,Ontario,35076,St. Catharines,CPC,50500,GRN,1924
+ON,Ontario,35076,St. Catharines,CPC,50500,CHP,357
+ON,Ontario,35076,St. Catharines,CPC,50500,COM,91
+ON,Ontario,35077,St. Paul's,LIB,55471,LIB,22409
+ON,Ontario,35077,St. Paul's,LIB,55471,CPC,17864
+ON,Ontario,35077,St. Paul's,LIB,55471,NDP,12124
+ON,Ontario,35077,St. Paul's,LIB,55471,GRN,2495
+ON,Ontario,35077,St. Paul's,LIB,55471,LTN,303
+ON,Ontario,35078,Sarnia--Lambton,CPC,49870,CPC,26112
+ON,Ontario,35078,Sarnia--Lambton,CPC,49870,NDP,14856
+ON,Ontario,35078,Sarnia--Lambton,CPC,49870,LIB,6931
+ON,Ontario,35078,Sarnia--Lambton,CPC,49870,GRN,1252
+ON,Ontario,35078,Sarnia--Lambton,CPC,49870,CHP,514
+ON,Ontario,35079,Sault Ste. Marie,CPC,44460,CPC,18328
+ON,Ontario,35079,Sault Ste. Marie,CPC,44460,NDP,16467
+ON,Ontario,35079,Sault Ste. Marie,CPC,44460,LIB,8343
+ON,Ontario,35079,Sault Ste. Marie,CPC,44460,GRN,945
+ON,Ontario,35079,Sault Ste. Marie,CPC,44460,CHP,111
+ON,Ontario,35079,Sault Ste. Marie,CPC,44460,ML,38
+ON,Ontario,35080,Scarborough--Agincourt,LIB,41016,LIB,18498
+ON,Ontario,35080,Scarborough--Agincourt,LIB,41016,CPC,13930
+ON,Ontario,35080,Scarborough--Agincourt,LIB,41016,NDP,7376
+ON,Ontario,35080,Scarborough--Agincourt,LIB,41016,GRN,946
+ON,Ontario,35081,Scarborough Centre,CPC,38184,CPC,13498
+ON,Ontario,35081,Scarborough Centre,CPC,38184,LIB,12028
+ON,Ontario,35081,Scarborough Centre,CPC,38184,NDP,11443
+ON,Ontario,35081,Scarborough Centre,CPC,38184,GRN,998
+ON,Ontario,35082,Scarborough--Guildwood,LIB,38445,LIB,13849
+ON,Ontario,35082,Scarborough--Guildwood,LIB,38445,CPC,13158
+ON,Ontario,35082,Scarborough--Guildwood,LIB,38445,NDP,10145
+ON,Ontario,35082,Scarborough--Guildwood,LIB,38445,GRN,848
+ON,Ontario,35082,Scarborough--Guildwood,LIB,38445,IND,259
+ON,Ontario,35083,Scarborough--Rouge River,NDP,46831,NDP,18935
+ON,Ontario,35083,Scarborough--Rouge River,NDP,46831,CPC,13935
+ON,Ontario,35083,Scarborough--Rouge River,NDP,46831,LIB,12699
+ON,Ontario,35083,Scarborough--Rouge River,NDP,46831,GRN,684
+ON,Ontario,35083,Scarborough--Rouge River,NDP,46831,IND,357
+ON,Ontario,35084,Scarborough Southwest,NDP,40501,NDP,14119
+ON,Ontario,35084,Scarborough Southwest,NDP,40501,CPC,12830
+ON,Ontario,35084,Scarborough Southwest,NDP,40501,LIB,11699
+ON,Ontario,35084,Scarborough Southwest,NDP,40501,GRN,1635
+ON,Ontario,35085,Simcoe--Grey,CPC,64642,CPC,31784
+ON,Ontario,35085,Simcoe--Grey,CPC,64642,NDP,11185
+ON,Ontario,35085,Simcoe--Grey,CPC,64642,NOA,8714
+ON,Ontario,35085,Simcoe--Grey,CPC,64642,LIB,8207
+ON,Ontario,35085,Simcoe--Grey,CPC,64642,GRN,3482
+ON,Ontario,35085,Simcoe--Grey,CPC,64642,CHP,757
+ON,Ontario,35085,Simcoe--Grey,CPC,64642,CAP,244
+ON,Ontario,35086,Simcoe North,CPC,58158,CPC,31581
+ON,Ontario,35086,Simcoe North,CPC,58158,NDP,11515
+ON,Ontario,35086,Simcoe North,CPC,58158,LIB,11090
+ON,Ontario,35086,Simcoe North,CPC,58158,GRN,3489
+ON,Ontario,35086,Simcoe North,CPC,58158,CHP,322
+ON,Ontario,35087,Stormont--Dundas--South Glengarry,CPC,47755,CPC,29538
+ON,Ontario,35087,Stormont--Dundas--South Glengarry,CPC,47755,LIB,8510
+ON,Ontario,35087,Stormont--Dundas--South Glengarry,CPC,47755,NDP,8313
+ON,Ontario,35087,Stormont--Dundas--South Glengarry,CPC,47755,GRN,1038
+ON,Ontario,35087,Stormont--Dundas--South Glengarry,CPC,47755,LTN,151
+ON,Ontario,35088,Sudbury,NDP,45621,NDP,22684
+ON,Ontario,35088,Sudbury,NDP,45621,CPC,12881
+ON,Ontario,35088,Sudbury,NDP,45621,LIB,8172
+ON,Ontario,35088,Sudbury,NDP,45621,GRN,1359
+ON,Ontario,35088,Sudbury,NDP,45621,FPNP,229
+ON,Ontario,35088,Sudbury,NDP,45621,IND,116
+ON,Ontario,35089,Thornhill,CPC,59947,CPC,36629
+ON,Ontario,35089,Thornhill,CPC,59947,LIB,14125
+ON,Ontario,35089,Thornhill,CPC,59947,NDP,7141
+ON,Ontario,35089,Thornhill,CPC,59947,GRN,1562
+ON,Ontario,35089,Thornhill,CPC,59947,AA,215
+ON,Ontario,35090,Thunder Bay--Rainy River,NDP,37288,NDP,18085
+ON,Ontario,35090,Thunder Bay--Rainy River,NDP,37288,CPC,10097
+ON,Ontario,35090,Thunder Bay--Rainy River,NDP,37288,LIB,8067
+ON,Ontario,35090,Thunder Bay--Rainy River,NDP,37288,GRN,909
+ON,Ontario,35091,Thunder Bay--Superior North,NDP,36881,NDP,18334
+ON,Ontario,35091,Thunder Bay--Superior North,NDP,36881,CPC,10894
+ON,Ontario,35091,Thunder Bay--Superior North,NDP,36881,LIB,6117
+ON,Ontario,35091,Thunder Bay--Superior North,NDP,36881,GRN,1115
+ON,Ontario,35091,Thunder Bay--Superior North,NDP,36881,MAR,265
+ON,Ontario,35092,Timmins--James Bay,NDP,33402,NDP,16738
+ON,Ontario,35092,Timmins--James Bay,NDP,33402,CPC,10526
+ON,Ontario,35092,Timmins--James Bay,NDP,33402,LIB,5230
+ON,Ontario,35092,Timmins--James Bay,NDP,33402,GRN,724
+ON,Ontario,35093,Toronto Centre,LIB,55890,LIB,22832
+ON,Ontario,35093,Toronto Centre,LIB,55890,NDP,16818
+ON,Ontario,35093,Toronto Centre,LIB,55890,CPC,12604
+ON,Ontario,35093,Toronto Centre,LIB,55890,GRN,2796
+ON,Ontario,35093,Toronto Centre,LIB,55890,LTN,277
+ON,Ontario,35093,Toronto Centre,LIB,55890,COM,159
+ON,Ontario,35093,Toronto Centre,LIB,55890,IND,108
+ON,Ontario,35093,Toronto Centre,LIB,55890,ML,76
+ON,Ontario,35094,Toronto--Danforth,NDP,48370,NDP,29235
+ON,Ontario,35094,Toronto--Danforth,NDP,48370,LIB,8472
+ON,Ontario,35094,Toronto--Danforth,NDP,48370,CPC,6885
+ON,Ontario,35094,Toronto--Danforth,NDP,48370,GRN,3107
+ON,Ontario,35094,Toronto--Danforth,NDP,48370,AA,387
+ON,Ontario,35095,Trinity--Spadina,NDP,65611,NDP,35601
+ON,Ontario,35095,Trinity--Spadina,NDP,65611,LIB,15276
+ON,Ontario,35095,Trinity--Spadina,NDP,65611,CPC,10976
+ON,Ontario,35095,Trinity--Spadina,NDP,65611,GRN,2861
+ON,Ontario,35095,Trinity--Spadina,NDP,65611,LTN,456
+ON,Ontario,35095,Trinity--Spadina,NDP,65611,ML,140
+ON,Ontario,35096,Vaughan,CPC,68903,CPC,38533
+ON,Ontario,35096,Vaughan,CPC,68903,LIB,20435
+ON,Ontario,35096,Vaughan,CPC,68903,NDP,7940
+ON,Ontario,35096,Vaughan,CPC,68903,GRN,1515
+ON,Ontario,35097,Welland,NDP,52217,NDP,21917
+ON,Ontario,35097,Welland,NDP,52217,CPC,20895
+ON,Ontario,35097,Welland,NDP,52217,LIB,7276
+ON,Ontario,35097,Welland,NDP,52217,GRN,1297
+ON,Ontario,35097,Welland,NDP,52217,CHP,299
+ON,Ontario,35097,Welland,NDP,52217,IND,169
+ON,Ontario,35097,Welland,NDP,52217,ML,71
+ON,Ontario,35098,Wellington--Halton Hills,CPC,55309,CPC,35132
+ON,Ontario,35098,Wellington--Halton Hills,CPC,55309,LIB,9034
+ON,Ontario,35098,Wellington--Halton Hills,CPC,55309,NDP,7146
+ON,Ontario,35098,Wellington--Halton Hills,CPC,55309,GRN,3527
+ON,Ontario,35098,Wellington--Halton Hills,CPC,55309,CHP,316
+ON,Ontario,35099,Whitby--Oshawa,CPC,64481,CPC,37525
+ON,Ontario,35099,Whitby--Oshawa,CPC,64481,NDP,14305
+ON,Ontario,35099,Whitby--Oshawa,CPC,64481,LIB,9066
+ON,Ontario,35099,Whitby--Oshawa,CPC,64481,GRN,3143
+ON,Ontario,35099,Whitby--Oshawa,CPC,64481,LTN,198
+ON,Ontario,35100,Willowdale,CPC,53554,CPC,22207
+ON,Ontario,35100,Willowdale,CPC,53554,LIB,21275
+ON,Ontario,35100,Willowdale,CPC,53554,NDP,9777
+ON,Ontario,35101,Windsor--Tecumseh,NDP,44772,NDP,22235
+ON,Ontario,35101,Windsor--Tecumseh,NDP,44772,CPC,14945
+ON,Ontario,35101,Windsor--Tecumseh,NDP,44772,LIB,5764
+ON,Ontario,35101,Windsor--Tecumseh,NDP,44772,GRN,1354
+ON,Ontario,35101,Windsor--Tecumseh,NDP,44772,ML,242
+ON,Ontario,35102,Windsor West,NDP,40002,NDP,21592
+ON,Ontario,35102,Windsor West,NDP,40002,CPC,12577
+ON,Ontario,35102,Windsor West,NDP,40002,LIB,4327
+ON,Ontario,35102,Windsor West,NDP,40002,GRN,1096
+ON,Ontario,35102,Windsor West,NDP,40002,ML,153
+ON,Ontario,35103,York Centre,CPC,42320,CPC,20356
+ON,Ontario,35103,York Centre,CPC,42320,LIB,13979
+ON,Ontario,35103,York Centre,CPC,42320,NDP,6656
+ON,Ontario,35103,York Centre,CPC,42320,GRN,979
+ON,Ontario,35104,York--Simcoe,CPC,53067,CPC,33614
+ON,Ontario,35104,York--Simcoe,CPC,53067,NDP,10190
+ON,Ontario,35104,York--Simcoe,CPC,53067,LIB,5702
+ON,Ontario,35104,York--Simcoe,CPC,53067,GRN,2851
+ON,Ontario,35104,York--Simcoe,CPC,53067,CHP,352
+ON,Ontario,35104,York--Simcoe,CPC,53067,UNI,157
+ON,Ontario,35105,York South--Weston,NDP,35486,NDP,14122
+ON,Ontario,35105,York South--Weston,NDP,35486,LIB,11542
+ON,Ontario,35105,York South--Weston,NDP,35486,CPC,8559
+ON,Ontario,35105,York South--Weston,NDP,35486,GRN,975
+ON,Ontario,35106,York West,LIB,27991,LIB,13030
+ON,Ontario,35106,York West,LIB,27991,NDP,7721
+ON,Ontario,35106,York West,LIB,27991,CPC,6122
+ON,Ontario,35106,York West,LIB,27991,GRN,450
+ON,Ontario,35106,York West,LIB,27991,CHP,231
+ON,Ontario,35106,York West,LIB,27991,CAP,170
+MB,Manitoba,46001,Brandon--Souris,CPC,35264,CPC,22386
+MB,Manitoba,46001,Brandon--Souris,CPC,35264,NDP,8845
+MB,Manitoba,46001,Brandon--Souris,CPC,35264,GRN,2012
+MB,Manitoba,46001,Brandon--Souris,CPC,35264,LIB,1882
+MB,Manitoba,46002,Charleswood--St. James--Assiniboia,CPC,40553,CPC,23264
+MB,Manitoba,46002,Charleswood--St. James--Assiniboia,CPC,40553,NDP,8134
+MB,Manitoba,46002,Charleswood--St. James--Assiniboia,CPC,40553,LIB,7433
+MB,Manitoba,46002,Charleswood--St. James--Assiniboia,CPC,40553,GRN,1587
+MB,Manitoba,46003,Churchill,NDP,20183,NDP,10262
+MB,Manitoba,46003,Churchill,NDP,20183,CPC,5256
+MB,Manitoba,46003,Churchill,NDP,20183,LIB,4087
+MB,Manitoba,46003,Churchill,NDP,20183,GRN,471
+MB,Manitoba,46004,Dauphin--Swan River--Marquette,CPC,29482,CPC,18543
+MB,Manitoba,46004,Dauphin--Swan River--Marquette,CPC,29482,NDP,7657
+MB,Manitoba,46004,Dauphin--Swan River--Marquette,CPC,29482,LIB,1947
+MB,Manitoba,46004,Dauphin--Swan River--Marquette,CPC,29482,GRN,1243
+MB,Manitoba,46005,Elmwood--Transcona,CPC,33085,CPC,15298
+MB,Manitoba,46005,Elmwood--Transcona,CPC,33085,NDP,14998
+MB,Manitoba,46005,Elmwood--Transcona,CPC,33085,LIB,1660
+MB,Manitoba,46005,Elmwood--Transcona,CPC,33085,GRN,1017
+MB,Manitoba,46006,Kildonan--St. Paul,CPC,39133,CPC,22670
+MB,Manitoba,46006,Kildonan--St. Paul,CPC,39133,NDP,11727
+MB,Manitoba,46006,Kildonan--St. Paul,CPC,39133,LIB,3199
+MB,Manitoba,46006,Kildonan--St. Paul,CPC,39133,GRN,1020
+MB,Manitoba,46006,Kildonan--St. Paul,CPC,39133,IND,218
+MB,Manitoba,46006,Kildonan--St. Paul,CPC,39133,IND,145
+MB,Manitoba,46007,Portage--Lisgar,CPC,35546,CPC,26899
+MB,Manitoba,46007,Portage--Lisgar,CPC,35546,NDP,3478
+MB,Manitoba,46007,Portage--Lisgar,CPC,35546,LIB,2221
+MB,Manitoba,46007,Portage--Lisgar,CPC,35546,GRN,1996
+MB,Manitoba,46007,Portage--Lisgar,CPC,35546,CHP,805
+MB,Manitoba,46008,Provencher,CPC,39574,CPC,27820
+MB,Manitoba,46008,Provencher,CPC,39574,NDP,7051
+MB,Manitoba,46008,Provencher,CPC,39574,LIB,2645
+MB,Manitoba,46008,Provencher,CPC,39574,GRN,1164
+MB,Manitoba,46008,Provencher,CPC,39574,CHP,510
+MB,Manitoba,46008,Provencher,CPC,39574,PIR,215
+MB,Manitoba,46009,Saint Boniface,CPC,43412,CPC,21737
+MB,Manitoba,46009,Saint Boniface,CPC,43412,LIB,13314
+MB,Manitoba,46009,Saint Boniface,CPC,43412,NDP,6935
+MB,Manitoba,46009,Saint Boniface,CPC,43412,GRN,1245
+MB,Manitoba,46010,Selkirk--Interlake,CPC,41344,CPC,26848
+MB,Manitoba,46010,Selkirk--Interlake,CPC,41344,NDP,10933
+MB,Manitoba,46010,Selkirk--Interlake,CPC,41344,LIB,1980
+MB,Manitoba,46010,Selkirk--Interlake,CPC,41344,GRN,1423
+MB,Manitoba,46011,Winnipeg Centre,NDP,26203,NDP,13928
+MB,Manitoba,46011,Winnipeg Centre,NDP,26203,CPC,7173
+MB,Manitoba,46011,Winnipeg Centre,NDP,26203,LIB,2872
+MB,Manitoba,46011,Winnipeg Centre,NDP,26203,GRN,1830
+MB,Manitoba,46011,Winnipeg Centre,NDP,26203,COM,152
+MB,Manitoba,46012,Winnipeg North,LIB,25563,LIB,9097
+MB,Manitoba,46012,Winnipeg North,LIB,25563,NDP,9053
+MB,Manitoba,46012,Winnipeg North,LIB,25563,CPC,6701
+MB,Manitoba,46012,Winnipeg North,LIB,25563,GRN,458
+MB,Manitoba,46012,Winnipeg North,LIB,25563,COM,118
+MB,Manitoba,46013,Winnipeg South,CPC,43905,CPC,22840
+MB,Manitoba,46013,Winnipeg South,CPC,43905,LIB,14296
+MB,Manitoba,46013,Winnipeg South,CPC,43905,NDP,5693
+MB,Manitoba,46013,Winnipeg South,CPC,43905,GRN,889
+MB,Manitoba,46014,Winnipeg South Centre,CPC,40093,CPC,15506
+MB,Manitoba,46014,Winnipeg South Centre,CPC,40093,LIB,14784
+MB,Manitoba,46014,Winnipeg South Centre,CPC,40093,NDP,7945
+MB,Manitoba,46014,Winnipeg South Centre,CPC,40093,GRN,1383
+MB,Manitoba,46014,Winnipeg South Centre,CPC,40093,IND,218
+MB,Manitoba,46014,Winnipeg South Centre,CPC,40093,IND,103
+SK,Saskatchewan,47001,Battlefords--Lloydminster,CPC,28814,CPC,19203
+SK,Saskatchewan,47001,Battlefords--Lloydminster,CPC,28814,NDP,7767
+SK,Saskatchewan,47001,Battlefords--Lloydminster,CPC,28814,LIB,950
+SK,Saskatchewan,47001,Battlefords--Lloydminster,CPC,28814,GRN,785
+SK,Saskatchewan,47002,Blackstrap,CPC,42908,CPC,23280
+SK,Saskatchewan,47002,Blackstrap,CPC,42908,NDP,15769
+SK,Saskatchewan,47002,Blackstrap,CPC,42908,LIB,2713
+SK,Saskatchewan,47002,Blackstrap,CPC,42908,GRN,1033
+SK,Saskatchewan,47004,Cypress Hills--Grasslands,CPC,29508,CPC,20555
+SK,Saskatchewan,47004,Cypress Hills--Grasslands,CPC,29508,NDP,6248
+SK,Saskatchewan,47004,Cypress Hills--Grasslands,CPC,29508,LIB,1838
+SK,Saskatchewan,47004,Cypress Hills--Grasslands,CPC,29508,GRN,788
+SK,Saskatchewan,47003,Desnethé--Missinippi--Churchill River,CPC,22023,CPC,10509
+SK,Saskatchewan,47003,Desnethé--Missinippi--Churchill River,CPC,22023,NDP,9715
+SK,Saskatchewan,47003,Desnethé--Missinippi--Churchill River,CPC,22023,LIB,1144
+SK,Saskatchewan,47003,Desnethé--Missinippi--Churchill River,CPC,22023,GRN,560
+SK,Saskatchewan,47005,Palliser,CPC,33819,CPC,15850
+SK,Saskatchewan,47005,Palliser,CPC,33819,NDP,15084
+SK,Saskatchewan,47005,Palliser,CPC,33819,LIB,1797
+SK,Saskatchewan,47005,Palliser,CPC,33819,GRN,995
+SK,Saskatchewan,47006,Prince Albert,CPC,30995,CPC,19214
+SK,Saskatchewan,47006,Prince Albert,CPC,30995,NDP,9841
+SK,Saskatchewan,47006,Prince Albert,CPC,30995,LIB,1070
+SK,Saskatchewan,47006,Prince Albert,CPC,30995,GRN,666
+SK,Saskatchewan,47006,Prince Albert,CPC,30995,CAP,116
+SK,Saskatchewan,47007,Regina--Lumsden--Lake Centre,CPC,34061,CPC,18076
+SK,Saskatchewan,47007,Regina--Lumsden--Lake Centre,CPC,34061,NDP,12518
+SK,Saskatchewan,47007,Regina--Lumsden--Lake Centre,CPC,34061,LIB,2467
+SK,Saskatchewan,47007,Regina--Lumsden--Lake Centre,CPC,34061,GRN,911
+SK,Saskatchewan,47008,Regina--Qu'Appelle,CPC,29818,CPC,15896
+SK,Saskatchewan,47008,Regina--Qu'Appelle,CPC,29818,NDP,11419
+SK,Saskatchewan,47008,Regina--Qu'Appelle,CPC,29818,LIB,1400
+SK,Saskatchewan,47008,Regina--Qu'Appelle,CPC,29818,GRN,879
+SK,Saskatchewan,47008,Regina--Qu'Appelle,CPC,29818,IND,127
+SK,Saskatchewan,47009,Saskatoon--Humboldt,CPC,37952,CPC,19954
+SK,Saskatchewan,47009,Saskatoon--Humboldt,CPC,37952,NDP,13271
+SK,Saskatchewan,47009,Saskatoon--Humboldt,CPC,37952,LIB,3013
+SK,Saskatchewan,47009,Saskatoon--Humboldt,CPC,37952,GRN,926
+SK,Saskatchewan,47009,Saskatoon--Humboldt,CPC,37952,IND,682
+SK,Saskatchewan,47010,Saskatoon--Rosetown--Biggar,CPC,30220,CPC,14652
+SK,Saskatchewan,47010,Saskatoon--Rosetown--Biggar,CPC,30220,NDP,14114
+SK,Saskatchewan,47010,Saskatoon--Rosetown--Biggar,CPC,30220,LIB,697
+SK,Saskatchewan,47010,Saskatoon--Rosetown--Biggar,CPC,30220,GRN,626
+SK,Saskatchewan,47011,Saskatoon--Wanuskewin,CPC,36390,CPC,21183
+SK,Saskatchewan,47011,Saskatoon--Wanuskewin,CPC,36390,NDP,11395
+SK,Saskatchewan,47011,Saskatoon--Wanuskewin,CPC,36390,LIB,2428
+SK,Saskatchewan,47011,Saskatoon--Wanuskewin,CPC,36390,GRN,1250
+SK,Saskatchewan,47012,Souris--Moose Mountain,CPC,29270,CPC,21598
+SK,Saskatchewan,47012,Souris--Moose Mountain,CPC,29270,NDP,5461
+SK,Saskatchewan,47012,Souris--Moose Mountain,CPC,29270,LIB,1236
+SK,Saskatchewan,47012,Souris--Moose Mountain,CPC,29270,GRN,898
+SK,Saskatchewan,47013,Wascana,LIB,38855,LIB,15823
+SK,Saskatchewan,47013,Wascana,LIB,38855,CPC,14291
+SK,Saskatchewan,47013,Wascana,LIB,38855,NDP,7681
+SK,Saskatchewan,47013,Wascana,LIB,38855,GRN,954
+SK,Saskatchewan,47014,Yorkton--Melville,CPC,31868,CPC,21906
+SK,Saskatchewan,47014,Yorkton--Melville,CPC,31868,NDP,6931
+SK,Saskatchewan,47014,Yorkton--Melville,CPC,31868,LIB,2167
+SK,Saskatchewan,47014,Yorkton--Melville,CPC,31868,GRN,774
+AB,Alberta,48006,Calgary Centre,CPC,49496,CPC,28401
+AB,Alberta,48006,Calgary Centre,CPC,49496,LIB,8631
+AB,Alberta,48006,Calgary Centre,CPC,49496,NDP,7314
+AB,Alberta,48006,Calgary Centre,CPC,49496,GRN,4889
+AB,Alberta,48003,Calgary Centre-North,CPC,50518,CPC,28443
+AB,Alberta,48003,Calgary Centre-North,CPC,50518,NDP,8048
+AB,Alberta,48003,Calgary Centre-North,CPC,50518,LIB,7046
+AB,Alberta,48003,Calgary Centre-North,CPC,50518,GRN,6578
+AB,Alberta,48003,Calgary Centre-North,CPC,50518,ML,203
+AB,Alberta,48002,Calgary East,CPC,34847,CPC,23372
+AB,Alberta,48002,Calgary East,CPC,34847,NDP,4894
+AB,Alberta,48002,Calgary East,CPC,34847,LIB,4102
+AB,Alberta,48002,Calgary East,CPC,34847,GRN,2047
+AB,Alberta,48002,Calgary East,CPC,34847,COM,246
+AB,Alberta,48004,Calgary Northeast,CPC,41732,CPC,23550
+AB,Alberta,48004,Calgary Northeast,CPC,41732,LIB,11487
+AB,Alberta,48004,Calgary Northeast,CPC,41732,NDP,4262
+AB,Alberta,48004,Calgary Northeast,CPC,41732,GRN,1953
+AB,Alberta,48004,Calgary Northeast,CPC,41732,ML,206
+AB,Alberta,48005,Calgary--Nose Hill,CPC,57723,CPC,40384
+AB,Alberta,48005,Calgary--Nose Hill,CPC,57723,NDP,7189
+AB,Alberta,48005,Calgary--Nose Hill,CPC,57723,LIB,6501
+AB,Alberta,48005,Calgary--Nose Hill,CPC,57723,GRN,3480
+AB,Alberta,48007,Calgary Southeast,CPC,63301,CPC,48173
+AB,Alberta,48007,Calgary Southeast,CPC,63301,NDP,6482
+AB,Alberta,48007,Calgary Southeast,CPC,63301,GRN,4079
+AB,Alberta,48007,Calgary Southeast,CPC,63301,LIB,4020
+AB,Alberta,48007,Calgary Southeast,CPC,63301,IND,225
+AB,Alberta,48007,Calgary Southeast,CPC,63301,WBP,193
+AB,Alberta,48008,Calgary Southwest,CPC,57413,CPC,42998
+AB,Alberta,48008,Calgary Southwest,CPC,57413,NDP,6823
+AB,Alberta,48008,Calgary Southwest,CPC,57413,LIB,4121
+AB,Alberta,48008,Calgary Southwest,CPC,57413,GRN,2991
+AB,Alberta,48008,Calgary Southwest,CPC,57413,IND,303
+AB,Alberta,48009,Calgary West,CPC,64684,CPC,39996
+AB,Alberta,48009,Calgary West,CPC,64684,LIB,11374
+AB,Alberta,48009,Calgary West,CPC,64684,NDP,6679
+AB,Alberta,48009,Calgary West,CPC,64684,GRN,6070
+AB,Alberta,48009,Calgary West,CPC,64684,ML,227
+AB,Alberta,48010,Crowfoot,CPC,52653,CPC,44115
+AB,Alberta,48010,Crowfoot,CPC,52653,NDP,4805
+AB,Alberta,48010,Crowfoot,CPC,52653,GRN,1711
+AB,Alberta,48010,Crowfoot,CPC,52653,LIB,1224
+AB,Alberta,48010,Crowfoot,CPC,52653,IND,463
+AB,Alberta,48010,Crowfoot,CPC,52653,CHP,204
+AB,Alberta,48012,Edmonton Centre,CPC,49389,CPC,23625
+AB,Alberta,48012,Edmonton Centre,CPC,49389,NDP,12480
+AB,Alberta,48012,Edmonton Centre,CPC,49389,LIB,11037
+AB,Alberta,48012,Edmonton Centre,CPC,49389,GRN,1676
+AB,Alberta,48012,Edmonton Centre,CPC,49389,PIR,289
+AB,Alberta,48012,Edmonton Centre,CPC,49389,ML,81
+AB,Alberta,48013,Edmonton East,CPC,45904,CPC,24111
+AB,Alberta,48013,Edmonton East,CPC,45904,NDP,17078
+AB,Alberta,48013,Edmonton East,CPC,45904,LIB,3176
+AB,Alberta,48013,Edmonton East,CPC,45904,GRN,1345
+AB,Alberta,48014,Edmonton--Leduc,CPC,59581,CPC,37778
+AB,Alberta,48014,Edmonton--Leduc,CPC,59581,NDP,11488
+AB,Alberta,48014,Edmonton--Leduc,CPC,59581,LIB,7270
+AB,Alberta,48014,Edmonton--Leduc,CPC,59581,GRN,2896
+AB,Alberta,48011,Edmonton--Mill Woods--Beaumont,CPC,45827,CPC,27857
+AB,Alberta,48011,Edmonton--Mill Woods--Beaumont,CPC,45827,NDP,10875
+AB,Alberta,48011,Edmonton--Mill Woods--Beaumont,CPC,45827,LIB,5066
+AB,Alberta,48011,Edmonton--Mill Woods--Beaumont,CPC,45827,GRN,1364
+AB,Alberta,48011,Edmonton--Mill Woods--Beaumont,CPC,45827,PIR,374
+AB,Alberta,48011,Edmonton--Mill Woods--Beaumont,CPC,45827,COM,100
+AB,Alberta,48015,Edmonton--St. Albert,CPC,54468,CPC,34468
+AB,Alberta,48015,Edmonton--St. Albert,CPC,54468,NDP,11644
+AB,Alberta,48015,Edmonton--St. Albert,CPC,54468,LIB,5796
+AB,Alberta,48015,Edmonton--St. Albert,CPC,54468,GRN,2409
+AB,Alberta,48016,Edmonton--Sherwood Park,CPC,55284,CPC,24623
+AB,Alberta,48016,Edmonton--Sherwood Park,CPC,55284,IND,16263
+AB,Alberta,48016,Edmonton--Sherwood Park,CPC,55284,NDP,7971
+AB,Alberta,48016,Edmonton--Sherwood Park,CPC,55284,LIB,4131
+AB,Alberta,48016,Edmonton--Sherwood Park,CPC,55284,GRN,1926
+AB,Alberta,48016,Edmonton--Sherwood Park,CPC,55284,WBP,222
+AB,Alberta,48017,Edmonton--Spruce Grove,CPC,58915,CPC,41782
+AB,Alberta,48017,Edmonton--Spruce Grove,CPC,58915,NDP,9272
+AB,Alberta,48017,Edmonton--Spruce Grove,CPC,58915,LIB,5483
+AB,Alberta,48017,Edmonton--Spruce Grove,CPC,58915,GRN,2232
+AB,Alberta,48018,Edmonton--Strathcona,NDP,48854,NDP,26093
+AB,Alberta,48018,Edmonton--Strathcona,NDP,48854,CPC,19762
+AB,Alberta,48018,Edmonton--Strathcona,NDP,48854,LIB,1372
+AB,Alberta,48018,Edmonton--Strathcona,NDP,48854,GRN,1119
+AB,Alberta,48018,Edmonton--Strathcona,NDP,48854,IND,206
+AB,Alberta,48018,Edmonton--Strathcona,NDP,48854,ML,91
+AB,Alberta,48018,Edmonton--Strathcona,NDP,48854,IND,87
+AB,Alberta,48001,Fort McMurray--Athabasca,CPC,30749,CPC,21988
+AB,Alberta,48001,Fort McMurray--Athabasca,CPC,30749,NDP,4053
+AB,Alberta,48001,Fort McMurray--Athabasca,CPC,30749,LIB,3190
+AB,Alberta,48001,Fort McMurray--Athabasca,CPC,30749,GRN,1374
+AB,Alberta,48019,Lethbridge,CPC,48393,CPC,27173
+AB,Alberta,48019,Lethbridge,CPC,48393,NDP,13072
+AB,Alberta,48019,Lethbridge,CPC,48393,LIB,4030
+AB,Alberta,48019,Lethbridge,CPC,48393,GRN,2095
+AB,Alberta,48019,Lethbridge,CPC,48393,CHP,1716
+AB,Alberta,48020,Macleod,CPC,51792,CPC,40007
+AB,Alberta,48020,Macleod,CPC,51792,NDP,5335
+AB,Alberta,48020,Macleod,CPC,51792,GRN,2389
+AB,Alberta,48020,Macleod,CPC,51792,LIB,1898
+AB,Alberta,48020,Macleod,CPC,51792,PC,1754
+AB,Alberta,48020,Macleod,CPC,51792,CHP,252
+AB,Alberta,48021,Medicine Hat,CPC,43055,CPC,30719
+AB,Alberta,48021,Medicine Hat,CPC,43055,NDP,5616
+AB,Alberta,48021,Medicine Hat,CPC,43055,LIB,4416
+AB,Alberta,48021,Medicine Hat,CPC,43055,GRN,1868
+AB,Alberta,48021,Medicine Hat,CPC,43055,CHP,317
+AB,Alberta,48022,Peace River,CPC,48089,CPC,36334
+AB,Alberta,48022,Peace River,CPC,48089,NDP,7740
+AB,Alberta,48022,Peace River,CPC,48089,GRN,1702
+AB,Alberta,48022,Peace River,CPC,48089,LIB,1481
+AB,Alberta,48022,Peace River,CPC,48089,IND,359
+AB,Alberta,48022,Peace River,CPC,48089,RHI,345
+AB,Alberta,48023,Red Deer,CPC,50113,CPC,37959
+AB,Alberta,48023,Red Deer,CPC,50113,NDP,7566
+AB,Alberta,48023,Red Deer,CPC,50113,GRN,2551
+AB,Alberta,48023,Red Deer,CPC,50113,LIB,1918
+AB,Alberta,48024,Vegreville--Wainwright,CPC,49158,CPC,39145
+AB,Alberta,48024,Vegreville--Wainwright,CPC,49158,NDP,5561
+AB,Alberta,48024,Vegreville--Wainwright,CPC,49158,GRN,2499
+AB,Alberta,48024,Vegreville--Wainwright,CPC,49158,LIB,1525
+AB,Alberta,48024,Vegreville--Wainwright,CPC,49158,CHP,327
+AB,Alberta,48025,Westlock--St. Paul,CPC,42124,CPC,32652
+AB,Alberta,48025,Westlock--St. Paul,CPC,42124,NDP,5103
+AB,Alberta,48025,Westlock--St. Paul,CPC,42124,LIB,2569
+AB,Alberta,48025,Westlock--St. Paul,CPC,42124,GRN,1634
+AB,Alberta,48026,Wetaskiwin,CPC,46485,CPC,37756
+AB,Alberta,48026,Wetaskiwin,CPC,46485,NDP,5281
+AB,Alberta,48026,Wetaskiwin,CPC,46485,GRN,1978
+AB,Alberta,48026,Wetaskiwin,CPC,46485,LIB,1348
+AB,Alberta,48027,Wild Rose,CPC,58552,CPC,43669
+AB,Alberta,48027,Wild Rose,CPC,58552,NDP,6595
+AB,Alberta,48027,Wild Rose,CPC,58552,GRN,4071
+AB,Alberta,48027,Wild Rose,CPC,58552,LIB,3908
+AB,Alberta,48027,Wild Rose,CPC,58552,CHP,181
+AB,Alberta,48028,Yellowhead,CPC,41575,CPC,31925
+AB,Alberta,48028,Yellowhead,CPC,41575,NDP,5411
+AB,Alberta,48028,Yellowhead,CPC,41575,GRN,2132
+AB,Alberta,48028,Yellowhead,CPC,41575,LIB,1190
+AB,Alberta,48028,Yellowhead,CPC,41575,CHP,404
+AB,Alberta,48028,Yellowhead,CPC,41575,CAP,384
+BC,British Columbia,59001,Abbotsford,CPC,50199,CPC,32493
+BC,British Columbia,59001,Abbotsford,CPC,50199,NDP,10089
+BC,British Columbia,59001,Abbotsford,CPC,50199,LIB,4968
+BC,British Columbia,59001,Abbotsford,CPC,50199,GRN,2138
+BC,British Columbia,59001,Abbotsford,CPC,50199,ML,286
+BC,British Columbia,59026,British Columbia Southern Interior,NDP,49674,NDP,25206
+BC,British Columbia,59026,British Columbia Southern Interior,NDP,49674,CPC,19273
+BC,British Columbia,59026,British Columbia Southern Interior,NDP,49674,GRN,3153
+BC,British Columbia,59026,British Columbia Southern Interior,NDP,49674,LIB,1872
+BC,British Columbia,59002,Burnaby--Douglas,NDP,48930,NDP,20943
+BC,British Columbia,59002,Burnaby--Douglas,NDP,48930,CPC,19932
+BC,British Columbia,59002,Burnaby--Douglas,NDP,48930,LIB,5451
+BC,British Columbia,59002,Burnaby--Douglas,NDP,48930,GRN,1754
+BC,British Columbia,59002,Burnaby--Douglas,NDP,48930,LTN,420
+BC,British Columbia,59002,Burnaby--Douglas,NDP,48930,COM,153
+BC,British Columbia,59002,Burnaby--Douglas,NDP,48930,ML,57
+BC,British Columbia,59003,Burnaby--New Westminster,NDP,44877,NDP,22193
+BC,British Columbia,59003,Burnaby--New Westminster,NDP,44877,CPC,16009
+BC,British Columbia,59003,Burnaby--New Westminster,NDP,44877,LIB,4496
+BC,British Columbia,59003,Burnaby--New Westminster,NDP,44877,GRN,1731
+BC,British Columbia,59003,Burnaby--New Westminster,NDP,44877,LTN,160
+BC,British Columbia,59003,Burnaby--New Westminster,NDP,44877,ML,94
+BC,British Columbia,59004,Cariboo--Prince George,CPC,43689,CPC,24443
+BC,British Columbia,59004,Cariboo--Prince George,CPC,43689,NDP,13135
+BC,British Columbia,59004,Cariboo--Prince George,CPC,43689,GRN,2702
+BC,British Columbia,59004,Cariboo--Prince George,CPC,43689,LIB,2200
+BC,British Columbia,59004,Cariboo--Prince George,CPC,43689,CHP,440
+BC,British Columbia,59004,Cariboo--Prince George,CPC,43689,IND,394
+BC,British Columbia,59004,Cariboo--Prince George,CPC,43689,RHI,204
+BC,British Columbia,59005,Chilliwack--Fraser Canyon,CPC,49382,CPC,28160
+BC,British Columbia,59005,Chilliwack--Fraser Canyon,CPC,49382,NDP,12691
+BC,British Columbia,59005,Chilliwack--Fraser Canyon,CPC,49382,LIB,5320
+BC,British Columbia,59005,Chilliwack--Fraser Canyon,CPC,49382,GRN,2706
+BC,British Columbia,59005,Chilliwack--Fraser Canyon,CPC,49382,WBP,180
+BC,British Columbia,59005,Chilliwack--Fraser Canyon,CPC,49382,ML,173
+BC,British Columbia,59006,Delta--Richmond East,CPC,48211,CPC,26059
+BC,British Columbia,59006,Delta--Richmond East,CPC,48211,NDP,11181
+BC,British Columbia,59006,Delta--Richmond East,CPC,48211,LIB,8112
+BC,British Columbia,59006,Delta--Richmond East,CPC,48211,GRN,2324
+BC,British Columbia,59006,Delta--Richmond East,CPC,48211,NOA,220
+BC,British Columbia,59006,Delta--Richmond East,CPC,48211,LTN,147
+BC,British Columbia,59008,Esquimalt--Juan de Fuca,NDP,64248,NDP,26198
+BC,British Columbia,59008,Esquimalt--Juan de Fuca,NDP,64248,CPC,25792
+BC,British Columbia,59008,Esquimalt--Juan de Fuca,NDP,64248,LIB,6439
+BC,British Columbia,59008,Esquimalt--Juan de Fuca,NDP,64248,GRN,5341
+BC,British Columbia,59008,Esquimalt--Juan de Fuca,NDP,64248,IND,181
+BC,British Columbia,59008,Esquimalt--Juan de Fuca,NDP,64248,CAP,145
+BC,British Columbia,59009,Fleetwood--Port Kells,CPC,50636,CPC,23950
+BC,British Columbia,59009,Fleetwood--Port Kells,CPC,50636,NDP,16533
+BC,British Columbia,59009,Fleetwood--Port Kells,CPC,50636,LIB,8041
+BC,British Columbia,59009,Fleetwood--Port Kells,CPC,50636,GRN,1476
+BC,British Columbia,59009,Fleetwood--Port Kells,CPC,50636,LTN,370
+BC,British Columbia,59010,Kamloops--Thompson--Cariboo,CPC,56978,CPC,29682
+BC,British Columbia,59010,Kamloops--Thompson--Cariboo,CPC,56978,NDP,20983
+BC,British Columbia,59010,Kamloops--Thompson--Cariboo,CPC,56978,LIB,3026
+BC,British Columbia,59010,Kamloops--Thompson--Cariboo,CPC,56978,GRN,2932
+BC,British Columbia,59010,Kamloops--Thompson--Cariboo,CPC,56978,CHP,191
+BC,British Columbia,59011,Kelowna--Lake Country,CPC,60368,CPC,34566
+BC,British Columbia,59011,Kelowna--Lake Country,CPC,60368,NDP,13322
+BC,British Columbia,59011,Kelowna--Lake Country,CPC,60368,LIB,7069
+BC,British Columbia,59011,Kelowna--Lake Country,CPC,60368,GRN,5265
+BC,British Columbia,59012,Kootenay--Columbia,CPC,42930,CPC,23910
+BC,British Columbia,59012,Kootenay--Columbia,CPC,42930,NDP,14199
+BC,British Columbia,59012,Kootenay--Columbia,CPC,42930,GRN,2547
+BC,British Columbia,59012,Kootenay--Columbia,CPC,42930,LIB,1496
+BC,British Columbia,59012,Kootenay--Columbia,CPC,42930,IND,636
+BC,British Columbia,59013,Langley,CPC,55290,CPC,35569
+BC,British Columbia,59013,Langley,CPC,55290,NDP,11277
+BC,British Columbia,59013,Langley,CPC,55290,LIB,4990
+BC,British Columbia,59013,Langley,CPC,55290,GRN,2943
+BC,British Columbia,59013,Langley,CPC,55290,PIR,353
+BC,British Columbia,59014,Nanaimo--Alberni,CPC,65803,CPC,30469
+BC,British Columbia,59014,Nanaimo--Alberni,CPC,65803,NDP,25165
+BC,British Columbia,59014,Nanaimo--Alberni,CPC,65803,LIB,4984
+BC,British Columbia,59014,Nanaimo--Alberni,CPC,65803,GRN,4482
+BC,British Columbia,59014,Nanaimo--Alberni,CPC,65803,PIR,363
+BC,British Columbia,59014,Nanaimo--Alberni,CPC,65803,CHP,94
+BC,British Columbia,59014,Nanaimo--Alberni,CPC,65803,ML,81
+BC,British Columbia,59015,Nanaimo--Cowichan,NDP,64113,NDP,31272
+BC,British Columbia,59015,Nanaimo--Cowichan,NDP,64113,CPC,24497
+BC,British Columbia,59015,Nanaimo--Cowichan,NDP,64113,GRN,5005
+BC,British Columbia,59015,Nanaimo--Cowichan,NDP,64113,LIB,3007
+BC,British Columbia,59015,Nanaimo--Cowichan,NDP,64113,ML,170
+BC,British Columbia,59016,Newton--North Delta,NDP,46413,NDP,15413
+BC,British Columbia,59016,Newton--North Delta,NDP,46413,LIB,14510
+BC,British Columbia,59016,Newton--North Delta,NDP,46413,CPC,14437
+BC,British Columbia,59016,Newton--North Delta,NDP,46413,GRN,1520
+BC,British Columbia,59016,Newton--North Delta,NDP,46413,IND,123
+BC,British Columbia,59016,Newton--North Delta,NDP,46413,COM,116
+BC,British Columbia,59017,New Westminster--Coquitlam,NDP,50276,NDP,23023
+BC,British Columbia,59017,New Westminster--Coquitlam,NDP,50276,CPC,20776
+BC,British Columbia,59017,New Westminster--Coquitlam,NDP,50276,LIB,4069
+BC,British Columbia,59017,New Westminster--Coquitlam,NDP,50276,GRN,2160
+BC,British Columbia,59017,New Westminster--Coquitlam,NDP,50276,ML,95
+BC,British Columbia,59019,North Vancouver,CPC,59785,CPC,28996
+BC,British Columbia,59019,North Vancouver,CPC,59785,LIB,17665
+BC,British Columbia,59019,North Vancouver,CPC,59785,NDP,9617
+BC,British Columbia,59019,North Vancouver,CPC,59785,GRN,3004
+BC,British Columbia,59019,North Vancouver,CPC,59785,IND,350
+BC,British Columbia,59020,Okanagan--Coquihalla,CPC,53359,CPC,28525
+BC,British Columbia,59020,Okanagan--Coquihalla,CPC,53359,NDP,12853
+BC,British Columbia,59020,Okanagan--Coquihalla,CPC,53359,LIB,5815
+BC,British Columbia,59020,Okanagan--Coquihalla,CPC,53359,GRN,5005
+BC,British Columbia,59020,Okanagan--Coquihalla,CPC,53359,IND,860
+BC,British Columbia,59020,Okanagan--Coquihalla,CPC,53359,IND,180
+BC,British Columbia,59018,Okanagan--Shuswap,CPC,56833,CPC,31439
+BC,British Columbia,59018,Okanagan--Shuswap,CPC,56833,NDP,14955
+BC,British Columbia,59018,Okanagan--Shuswap,CPC,56833,GRN,6058
+BC,British Columbia,59018,Okanagan--Shuswap,CPC,56833,LIB,4246
+BC,British Columbia,59007,Pitt Meadows--Maple Ridge--Mission,CPC,53164,CPC,28803
+BC,British Columbia,59007,Pitt Meadows--Maple Ridge--Mission,CPC,53164,NDP,18835
+BC,British Columbia,59007,Pitt Meadows--Maple Ridge--Mission,CPC,53164,LIB,2739
+BC,British Columbia,59007,Pitt Meadows--Maple Ridge--Mission,CPC,53164,GRN,2629
+BC,British Columbia,59021,Port Moody--Westwood--Port Coquitlam,CPC,48661,CPC,27181
+BC,British Columbia,59021,Port Moody--Westwood--Port Coquitlam,CPC,48661,NDP,14600
+BC,British Columbia,59021,Port Moody--Westwood--Port Coquitlam,CPC,48661,LIB,4110
+BC,British Columbia,59021,Port Moody--Westwood--Port Coquitlam,CPC,48661,GRN,2161
+BC,British Columbia,59021,Port Moody--Westwood--Port Coquitlam,CPC,48661,LTN,421
+BC,British Columbia,59022,Prince George--Peace River,CPC,38671,CPC,23946
+BC,British Columbia,59022,Prince George--Peace River,CPC,38671,NDP,9876
+BC,British Columbia,59022,Prince George--Peace River,CPC,38671,GRN,2301
+BC,British Columbia,59022,Prince George--Peace River,CPC,38671,LIB,2008
+BC,British Columbia,59022,Prince George--Peace River,CPC,38671,PIR,415
+BC,British Columbia,59023,Richmond,CPC,43248,CPC,25109
+BC,British Columbia,59023,Richmond,CPC,43248,LIB,8027
+BC,British Columbia,59023,Richmond,CPC,43248,NDP,7860
+BC,British Columbia,59023,Richmond,CPC,43248,GRN,2032
+BC,British Columbia,59024,Saanich--Gulf Islands,GRN,68987,GRN,31890
+BC,British Columbia,59024,Saanich--Gulf Islands,GRN,68987,CPC,24544
+BC,British Columbia,59024,Saanich--Gulf Islands,GRN,68987,NDP,8185
+BC,British Columbia,59024,Saanich--Gulf Islands,GRN,68987,LIB,4208
+BC,British Columbia,59025,Skeena--Bulkley Valley,NDP,35237,NDP,19431
+BC,British Columbia,59025,Skeena--Bulkley Valley,NDP,35237,CPC,12117
+BC,British Columbia,59025,Skeena--Bulkley Valley,NDP,35237,LIB,1268
+BC,British Columbia,59025,Skeena--Bulkley Valley,NDP,35237,GRN,1102
+BC,British Columbia,59025,Skeena--Bulkley Valley,NDP,35237,CHP,1038
+BC,British Columbia,59025,Skeena--Bulkley Valley,NDP,35237,CAP,165
+BC,British Columbia,59027,South Surrey--White Rock--Cloverdale,CPC,58800,CPC,31990
+BC,British Columbia,59027,South Surrey--White Rock--Cloverdale,CPC,58800,NDP,11881
+BC,British Columbia,59027,South Surrey--White Rock--Cloverdale,CPC,58800,LIB,9775
+BC,British Columbia,59027,South Surrey--White Rock--Cloverdale,CPC,58800,GRN,3245
+BC,British Columbia,59027,South Surrey--White Rock--Cloverdale,CPC,58800,IND,753
+BC,British Columbia,59027,South Surrey--White Rock--Cloverdale,CPC,58800,CHP,429
+BC,British Columbia,59027,South Surrey--White Rock--Cloverdale,CPC,58800,PC,228
+BC,British Columbia,59027,South Surrey--White Rock--Cloverdale,CPC,58800,IND,189
+BC,British Columbia,59027,South Surrey--White Rock--Cloverdale,CPC,58800,IND,152
+BC,British Columbia,59028,Surrey North,NDP,37250,NDP,14678
+BC,British Columbia,59028,Surrey North,NDP,37250,CPC,13181
+BC,British Columbia,59028,Surrey North,NDP,37250,LIB,6797
+BC,British Columbia,59028,Surrey North,NDP,37250,GRN,1289
+BC,British Columbia,59028,Surrey North,NDP,37250,IND,451
+BC,British Columbia,59028,Surrey North,NDP,37250,CHP,303
+BC,British Columbia,59028,Surrey North,NDP,37250,LTN,284
+BC,British Columbia,59029,Vancouver Centre,LIB,58983,LIB,18260
+BC,British Columbia,59029,Vancouver Centre,LIB,58983,NDP,15325
+BC,British Columbia,59029,Vancouver Centre,LIB,58983,CPC,15323
+BC,British Columbia,59029,Vancouver Centre,LIB,58983,GRN,9089
+BC,British Columbia,59029,Vancouver Centre,LIB,58983,LTN,313
+BC,British Columbia,59029,Vancouver Centre,LIB,58983,PC,285
+BC,British Columbia,59029,Vancouver Centre,LIB,58983,PIR,192
+BC,British Columbia,59029,Vancouver Centre,LIB,58983,ML,62
+BC,British Columbia,59030,Vancouver East,NDP,44513,NDP,27794
+BC,British Columbia,59030,Vancouver East,NDP,44513,CPC,8361
+BC,British Columbia,59030,Vancouver East,NDP,44513,LIB,4382
+BC,British Columbia,59030,Vancouver East,NDP,44513,GRN,3383
+BC,British Columbia,59030,Vancouver East,NDP,44513,ML,318
+BC,British Columbia,59031,Vancouver Island North,CPC,59190,CPC,27206
+BC,British Columbia,59031,Vancouver Island North,CPC,59190,NDP,25379
+BC,British Columbia,59031,Vancouver Island North,CPC,59190,LIB,3039
+BC,British Columbia,59031,Vancouver Island North,CPC,59190,GRN,3018
+BC,British Columbia,59031,Vancouver Island North,CPC,59190,IND,304
+BC,British Columbia,59031,Vancouver Island North,CPC,59190,ML,57
+BC,British Columbia,59032,Vancouver Kingsway,NDP,47143,NDP,23452
+BC,British Columbia,59032,Vancouver Kingsway,NDP,47143,CPC,13157
+BC,British Columbia,59032,Vancouver Kingsway,NDP,47143,LIB,7796
+BC,British Columbia,59032,Vancouver Kingsway,NDP,47143,GRN,1860
+BC,British Columbia,59032,Vancouver Kingsway,NDP,47143,LTN,275
+BC,British Columbia,59032,Vancouver Kingsway,NDP,47143,COM,210
+BC,British Columbia,59032,Vancouver Kingsway,NDP,47143,ML,78
+BC,British Columbia,59033,Vancouver Quadra,LIB,54452,LIB,22903
+BC,British Columbia,59033,Vancouver Quadra,LIB,54452,CPC,20984
+BC,British Columbia,59033,Vancouver Quadra,LIB,54452,NDP,7499
+BC,British Columbia,59033,Vancouver Quadra,LIB,54452,GRN,2922
+BC,British Columbia,59034,Vancouver South,CPC,45314,CPC,19504
+BC,British Columbia,59034,Vancouver South,CPC,45314,LIB,15604
+BC,British Columbia,59034,Vancouver South,CPC,45314,NDP,8552
+BC,British Columbia,59034,Vancouver South,CPC,45314,GRN,1151
+BC,British Columbia,59034,Vancouver South,CPC,45314,ML,222
+BC,British Columbia,59035,Victoria,NDP,60625,NDP,30679
+BC,British Columbia,59035,Victoria,NDP,60625,CPC,14275
+BC,British Columbia,59035,Victoria,NDP,60625,LIB,8448
+BC,British Columbia,59035,Victoria,NDP,60625,GRN,7015
+BC,British Columbia,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,CPC,63072,CPC,28614
+BC,British Columbia,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,CPC,63072,NDP,14828
+BC,British Columbia,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,CPC,63072,LIB,14123
+BC,British Columbia,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,CPC,63072,GRN,4436
+BC,British Columbia,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,CPC,63072,PC,293
+BC,British Columbia,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,CPC,63072,LTN,250
+BC,British Columbia,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,CPC,63072,WBP,156
+BC,British Columbia,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,CPC,63072,ML,87
+BC,British Columbia,59036,West Vancouver--Sunshine Coast--Sea to Sky Country,CPC,63072,CAP,64
+YT,Yukon,60001,Yukon,CPC,16124,CPC,5422
+YT,Yukon,60001,Yukon,CPC,16124,LIB,5290
+YT,Yukon,60001,Yukon,CPC,16124,GRN,3037
+YT,Yukon,60001,Yukon,CPC,16124,NDP,2308
+NT,Northwest Territories,61001,Western Arctic,NDP,15655,NDP,7140
+NT,Northwest Territories,61001,Western Arctic,NDP,15655,CPC,5001
+NT,Northwest Territories,61001,Western Arctic,NDP,15655,LIB,2872
+NT,Northwest Territories,61001,Western Arctic,NDP,15655,GRN,477
+NT,Northwest Territories,61001,Western Arctic,NDP,15655,AA,87
+NU,Nunavut,62001,Nunavut,CPC,7931,CPC,3930
+NU,Nunavut,62001,Nunavut,CPC,7931,LIB,2260
+NU,Nunavut,62001,Nunavut,CPC,7931,NDP,1525
+NU,Nunavut,62001,Nunavut,CPC,7931,GRN,160
