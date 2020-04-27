@@ -1,0 +1,14 @@
+Province Id,Province Name (en),Province Name (fr),Abbreviation (en),Abbreviation (fr),Alpha code,Region name
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,N.L.,T.-N.-L.,NL,Atlantic
+11,Prince Edward Island,Île-du-Prince-Édouard,P.E.I.,Î.-P.-É.,PE,Atlantic
+12,Nova Scotia,Nouvelle-Écosse,N.S.,N.-É.,NS,Atlantic
+13,New Brunswick,Nouveau-Brunswick,N.B.,N.-B.,NB,Atlantic
+24,Quebec,Québec,Que.,Qc,QC,Quebec
+35,Ontario,,Ont.,Ont.,ON,Ontario
+46,Manitoba,,Man.,Man.,MB,Prairies
+47,Saskatchewan,,Sask.,Sask.,SK,Prairies
+48,Alberta,,Alta.,Alb.,AB,Prairies
+59,British Columbia,Colombie-Britannique,B.C.,C.-B.,BC,British Columbia
+60,Yukon,,Y.T.,Yn,YT,Territories
+61,Northwest Territories,Territoires du Nord-Ouest,N.W.T.,T.N.-O.,NT,Territories
+62,Nunavut,,Nvt.,Nt,NU,Territories
