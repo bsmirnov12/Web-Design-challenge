@@ -92,14 +92,29 @@
                 <div class="container bg-white">
                     <div class="row">
                         <div class="col">
-                            <h2 class="m-2">Changes in canadian political landscape</h2>
+                            <h2 class="m-2">Changes in Canadian Political Landscape</h2>
                             <hr>
-                            <figure class="w-50 float-left m-4">
+                            <figure class="w-50 mr-4 float-left"> <!---->
                                 <img src="images/summary_bars.svg" class="img-fluid">
                             </figure>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce luctus dictum neque, vitae malesuada tellus vehicula at. Aenean faucibus egestas velit, sed faucibus massa pretium sit amet. Mauris vitae diam sit amet metus pulvinar feugiat. Pellentesque fermentum nibh sit amet semper sagittis. Aliquam consequat vulputate velit eget gravida. Phasellus sit amet risus at tellus ornare bibendum et eu lorem. Praesent posuere et mi vitae efficitur. Phasellus laoreet elit at feugiat varius. Suspendisse potenti. Nullam ut quam viverra, fermentum erat vel, viverra urna. Mauris sed lobortis sem. Donec leo ex, volutpat vitae pulvinar sit amet, feugiat ut ipsum. Duis pulvinar semper lorem, ut gravida felis convallis non. Aenean egestas suscipit eleifend. Proin sapien lectus, laoreet nec aliquet ac, maximus id tellus. Fusce tristique rhoncus enim, eu molestie risus congue sed.
-
-                                Sed porttitor, tortor sit amet luctus venenatis, ante elit viverra orci, vitae egestas lectus metus et orci. Nunc dignissim turpis massa, a ultricies ligula malesuada sit amet. Proin felis urna, pulvinar vitae nisi a, imperdiet ultrices nisi. Mauris cursus luctus dolor, eget volutpat eros pretium nec. Ut tempus lacus velit, quis malesuada ligula convallis pretium. Morbi sed condimentum purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras cursus, diam nec venenatis interdum, dui odio lobortis leo, in scelerisque nibh dui eget diam. Duis luctus condimentum ipsum id fermentum. Ut efficitur consectetur ex id tempor. Duis posuere fermentum nulla, vel sodales elit aliquam quis. Morbi molestie pellentesque nisl, a condimentum libero tempus ut. Vestibulum a hendrerit augue. Sed quam turpis, iaculis a magna a, gravida dignissim mauris.</p>
+                            <p>This project explores 15 years of canadian political history, showing ups and downs of major political players, and swings of public political attitude.</p>
+                            <p>In order to make this demonstration, I pulled elections results from <a href="https://elections.ca/home.aspx">Elections Canada</a> web site.
+                                The depth of exploration is limited by year 2004, because earlier data (years 2000 and 1996) was in different file format and given limited time for the task
+                                these results were not included in the analysis.</p>
+                            <p>After pulling report tables from the web site the data was normalized:
+                                earlier tables missed <abbr title="Federal Electoral District, a.k.a. Riding" class="initialism">FED</abbr> codes, candidate party affiliation was
+                                embedded in a candidate description field, naming of parties changed from year to year, there were some other inconsistenses and formatting errors.
+                                The result of normalization was a set of tables in unified format containing information about party affiliation of each participating candidate,
+                                riding, number of votes. These tables are available for review via Data menu.
+                            </p>
+                            <p>The two sets of charts were generated using Matplotlib:
+                                <dl class="row">
+                                    <dt class="col-sm-3">Political parties</dt>
+                                    <dd class="col-sm-9">These charts demonstrate evolutions of success (or failure) of the parties that have representatives in the House of Commons.</dd>
+                                    <dt class="col-sm-3">Elections Years</dt>
+                                    <dd class="col-sm-9">These charts show political layouts in the House of Commons after the elections.</dd>
+                                </dl>
+                            </p>
                         </div>
                     </div>
                 </div>
