@@ -56,8 +56,8 @@
                     <div class="dropdown-menu dropdown-menu-right text-center" aria-labelledby="electionsDropdown">
                         <a class="dropdown-item" href="compare_elections.html">Comparison</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item active" href="elections2019.html">2019</a>
-                        <a class="dropdown-item" href="elections2015.html">2015</a>
+                        <a class="dropdown-item" href="elections2019.html">2019</a>
+                        <a class="dropdown-item active" href="elections2015.html">2015</a>
                         <a class="dropdown-item" href="elections2011.html">2011</a>
                         <a class="dropdown-item" href="elections2008.html">2008</a>
                         <a class="dropdown-item" href="elections2006.html">2006</a>
@@ -96,14 +96,14 @@
                             <img src="../images/Elections_Canada_Logo.svg" height=40 alt="Elections Canada logo">
                         </div>
                         <div class="col-auto">
-                            <h2>2019 Elections</h2>
+                            <h2>2015 Elections</h2>
                         </div>
                     </div>
                     <hr>
                     <div class="row">
                         <div class="col">
                             <figure class="float-left m-4">
-                                <img src="../images/results_2019_bars.svg" class="img-fluid" alt="2019 Elections Results">
+                                <img src="../images/results_2015_bars.svg" class="img-fluid" alt="2015 Elections Results">
                             </figure>
                             <p>Content here</p>
                         </div>
@@ -114,7 +114,114 @@
                             <h3>Ridings where the party lost by a small margin</h3>
                             <p>This table demonstrates, how different could be the layout of seats in the House of Commons.</p>
 
-                            
+                            <table class="dataframe table table-striped table-sm small">
+                                <thead>
+                                  <tr style="text-align: left;">
+                                    <th></th>
+                                    <th></th>
+                                    <th>Riding</th>
+                                    <th>Lost to</th>
+                                    <th>By # votes</th>
+                                    <th>% of ballots</th>
+                                  </tr>
+                                  <tr>
+                                    <th>Losing party</th>
+                                    <th>Province name</th>
+                                    <th></th>
+                                    <th></th>
+                                    <th></th>
+                                    <th></th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <th rowspan="5" valign="top">Conservative</th>
+                                    <th>Alberta</th>
+                                    <td>Edmonton Mill Woods</td>
+                                    <td>Liberal</td>
+                                    <td>92</td>
+                                    <td>0.18%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>British Columbia</th>
+                                    <td>Kootenay--Columbia</td>
+                                    <td>NDP</td>
+                                    <td>282</td>
+                                    <td>0.44%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Manitoba</th>
+                                    <td>Elmwood--Transcona</td>
+                                    <td>NDP</td>
+                                    <td>61</td>
+                                    <td>0.14%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Ontario</th>
+                                    <td>Hastings--Lennox and Addington</td>
+                                    <td>Liberal</td>
+                                    <td>225</td>
+                                    <td>0.45%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Saskatchewan</th>
+                                    <td>Regina--Lewvan</td>
+                                    <td>NDP</td>
+                                    <td>132</td>
+                                    <td>0.27%</td>
+                                  </tr>
+                                  <tr>
+                                    <th rowspan="7" valign="top">Liberal</th>
+                                    <th>Ontario</th>
+                                    <td>Barrie--Springwater--Oro-Medonte</td>
+                                    <td>Conservative</td>
+                                    <td>86</td>
+                                    <td>0.17%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Ontario</th>
+                                    <td>Kitchener--Conestoga</td>
+                                    <td>Conservative</td>
+                                    <td>251</td>
+                                    <td>0.52%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Quebec</th>
+                                    <td>Hochelaga</td>
+                                    <td>NDP</td>
+                                    <td>500</td>
+                                    <td>0.95%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Quebec</th>
+                                    <td>Jonquière</td>
+                                    <td>NDP</td>
+                                    <td>339</td>
+                                    <td>0.69%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Quebec</th>
+                                    <td>Montmagny--L'Islet--Kamouraska--Rivière-du-Loup</td>
+                                    <td>Conservative</td>
+                                    <td>272</td>
+                                    <td>0.54%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Quebec</th>
+                                    <td>Pierre-Boucher--Les Patriotes--Verchères</td>
+                                    <td>Bloc Québécois</td>
+                                    <td>213</td>
+                                    <td>0.35%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Saskatchewan</th>
+                                    <td>Desnethé--Missinippi--Churchill River</td>
+                                    <td>NDP</td>
+                                    <td>82</td>
+                                    <td>0.27%</td>
+                                  </tr>
+                                </tbody>
+                              </table>
 
                         </div>
                     </div>
@@ -132,7 +239,7 @@
                         <!-- ********** Elections Charts ********** -->
                         <div class="col-12 col-sm-6 col-md-12 col-xl-6 mb-4">
                             <a href="elections2019.html">
-                                <figure style="border: 2px solid red; padding: 2px;">
+                                <figure>
                                     <img src="../images/results_2019_bars.svg" class="img-fluid" alt="2019">
                                     <figcaption class="figure-caption text-center">2019</figcaption>
                                 </figure>
@@ -140,7 +247,7 @@
                         </div>
                         <div class="col-12 col-sm-6 col-md-12 col-xl-6 mb-4">
                             <a href="elections2015.html">
-                                <figure>
+                                <figure style="border: 2px solid red; padding: 2px;">
                                     <img src="../images/results_2015_bars.svg" class="img-fluid" alt="2015">
                                     <figcaption class="figure-caption text-center">2015</figcaption>
                                 </figure>

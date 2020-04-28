@@ -1,0 +1,386 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+
+    <title>Canadian political landscape</title>
+  </head>
+
+  <body class="bg-light">
+
+    <!-- ************* Navigation bar ************* -->
+
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+        <a class="navbar-brand" href="../index.html">
+            <img src="../images/Flag_of_Canada_(Pantone).svg" height="30" alt="Flag of Canada">
+            15 years history of canadian political landscape
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="partiesDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Parties
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="partiesDropdown">
+                        <!--
+                        <a class="dropdown-item" href="compare_parties.html">Comparison</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="LIB.html">Liberal</a>
+                        <a class="dropdown-item" href="CPC.html">Conservative</a>
+                        <a class="dropdown-item" href="NDP.html">New Democrats</a>
+                        <a class="dropdown-item" href="BQ.html">Bloc Québécois</a>
+                        <a class="dropdown-item" href="GRN.html">Green</a>
+                        -->
+                        <a class="dropdown-item" href="compare_parties.html">Comparison</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="LIB.html"><img src="../images/LIB_logo.svg" height=24 alt="Liberal"></a>
+                        <a class="dropdown-item" href="CPC.html"><img src="../images/CPC_logo.svg" height=24 alt="Conservative"></a>
+                        <a class="dropdown-item" href="NDP.html"><img src="../images/NDP_logo.svg" height=24 alt="New Democrats"></a>
+                        <a class="dropdown-item" href="BQ.html" ><img src="../images/BQ_logo.svg"  height=24 alt="Bloc Québécois"></a>
+                        <a class="dropdown-item" href="GRN.html"><img src="../images/GRN_logo.svg" height=24 alt="Green"></a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="electionsDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Elections
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right text-center" aria-labelledby="electionsDropdown">
+                        <a class="dropdown-item" href="compare_elections.html">Comparison</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="elections2019.html">2019</a>
+                        <a class="dropdown-item" href="elections2015.html">2015</a>
+                        <a class="dropdown-item" href="elections2011.html">2011</a>
+                        <a class="dropdown-item" href="elections2008.html">2008</a>
+                        <a class="dropdown-item" href="elections2006.html">2006</a>
+                        <a class="dropdown-item" href="elections2004.html">2004</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="dataDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Data
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right text-center" aria-labelledby="dataDropdown">
+                        <a class="dropdown-item" href="data2019.html">2019</a>
+                        <a class="dropdown-item" href="data2015.html">2015</a>
+                        <a class="dropdown-item" href="data2011.html">2011</a>
+                        <a class="dropdown-item" href="data2008.html">2008</a>
+                        <a class="dropdown-item" href="data2006.html">2006</a>
+                        <a class="dropdown-item" href="data2004.html">2004</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- ************* Main content ************* -->
+    
+    <div class="container mb-4">
+        <div class="row">
+
+            <!-- ************* Party history ************* -->
+
+            <div class="col-md-8 mb-4 d-flex align-items-stretch">
+                <div class="container bg-white">
+                    <div class="row d-flex justify-content-start align-items-center m-2">
+                        <div class="col-auto">
+                            <img src="../images/CPC_logo.svg" height=40 alt="Conservative Party logo">
+                        </div>
+                        <div class="col-auto">
+                            <h2>Conservative Party</h2>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row">
+                        <div class="col">
+                            <figure class="float-left m-4">
+                                <img src="../images/history_CPC_bars.svg" class="img-fluid" alt="Conservative Party history">
+                            </figure>
+                            <p>Content here</p>
+                        </div>
+                    </div>
+                    <hr class="w-50"> 
+                    <div class="row mt-4">
+                        <div class="col">
+                            <h3>Ridings where the party lost by a small margin</h3>
+                            <p>This table demonstrates, how different could be the layout of seats in the House of Commons if more party supporters came to vote.</p>
+
+                            <table class="dataframe table table-striped table-sm small">
+                                <thead>
+                                  <tr style="text-align: left;">
+                                    <th></th>
+                                    <th></th>
+                                    <th>Riding</th>
+                                    <th>Lost to</th>
+                                    <th>By # votes</th>
+                                    <th>% of ballots</th>
+                                  </tr>
+                                  <tr>
+                                    <th>Year</th>
+                                    <th>Province name</th>
+                                    <th></th>
+                                    <th></th>
+                                    <th></th>
+                                    <th></th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <th rowspan="5" valign="top">2019</th>
+                                    <th>Nova Scotia</th>
+                                    <td>Cumberland--Colchester</td>
+                                    <td>Liberal</td>
+                                    <td>453</td>
+                                    <td>0.99%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Ontario</th>
+                                    <td>Kitchener--Conestoga</td>
+                                    <td>Liberal</td>
+                                    <td>365</td>
+                                    <td>0.70%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Ontario</th>
+                                    <td>Richmond Hill</td>
+                                    <td>Liberal</td>
+                                    <td>212</td>
+                                    <td>0.42%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>British Columbia</th>
+                                    <td>Coquitlam--Port Coquitlam</td>
+                                    <td>Liberal</td>
+                                    <td>390</td>
+                                    <td>0.67%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Yukon</th>
+                                    <td>Yukon</td>
+                                    <td>Liberal</td>
+                                    <td>153</td>
+                                    <td>0.72%</td>
+                                  </tr>
+                                  <tr>
+                                    <th rowspan="5" valign="top">2015</th>
+                                    <th>Ontario</th>
+                                    <td>Hastings--Lennox and Addington</td>
+                                    <td>Liberal</td>
+                                    <td>225</td>
+                                    <td>0.45%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Manitoba</th>
+                                    <td>Elmwood--Transcona</td>
+                                    <td>NDP</td>
+                                    <td>61</td>
+                                    <td>0.14%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Saskatchewan</th>
+                                    <td>Regina--Lewvan</td>
+                                    <td>NDP</td>
+                                    <td>132</td>
+                                    <td>0.27%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Alberta</th>
+                                    <td>Edmonton Mill Woods</td>
+                                    <td>Liberal</td>
+                                    <td>92</td>
+                                    <td>0.18%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>British Columbia</th>
+                                    <td>Kootenay--Columbia</td>
+                                    <td>NDP</td>
+                                    <td>282</td>
+                                    <td>0.44%</td>
+                                  </tr>
+                                  <tr>
+                                    <th rowspan="2" valign="top">2011</th>
+                                    <th>Quebec</th>
+                                    <td>Montmagny--L'Islet--Kamouraska--Rivière-du-Loup</td>
+                                    <td>NDP</td>
+                                    <td>9</td>
+                                    <td>0.02%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>British Columbia</th>
+                                    <td>Esquimalt--Juan de Fuca</td>
+                                    <td>NDP</td>
+                                    <td>406</td>
+                                    <td>0.63%</td>
+                                  </tr>
+                                  <tr>
+                                    <th rowspan="5" valign="top">2008</th>
+                                    <th>Ontario</th>
+                                    <td>Brampton West</td>
+                                    <td>Liberal</td>
+                                    <td>231</td>
+                                    <td>0.43%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Ontario</th>
+                                    <td>Welland</td>
+                                    <td>NDP</td>
+                                    <td>300</td>
+                                    <td>0.58%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Alberta</th>
+                                    <td>Edmonton--Strathcona</td>
+                                    <td>NDP</td>
+                                    <td>463</td>
+                                    <td>0.98%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>British Columbia</th>
+                                    <td>Esquimalt--Juan de Fuca</td>
+                                    <td>Liberal</td>
+                                    <td>68</td>
+                                    <td>0.12%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>British Columbia</th>
+                                    <td>Vancouver South</td>
+                                    <td>Liberal</td>
+                                    <td>20</td>
+                                    <td>0.05%</td>
+                                  </tr>
+                                  <tr>
+                                    <th rowspan="2" valign="top">2006</th>
+                                    <th>Ontario</th>
+                                    <td>Brant</td>
+                                    <td>Liberal</td>
+                                    <td>582</td>
+                                    <td>0.97%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Saskatchewan</th>
+                                    <td>Desnethé--Missinippi--Churchill River</td>
+                                    <td>Liberal</td>
+                                    <td>67</td>
+                                    <td>0.27%</td>
+                                  </tr>
+                                  <tr>
+                                    <th rowspan="4" valign="top">2004</th>
+                                    <th>Ontario</th>
+                                    <td>Chatham-Kent--Essex</td>
+                                    <td>Liberal</td>
+                                    <td>407</td>
+                                    <td>0.92%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Ontario</th>
+                                    <td>Middlesex--Kent--Lambton</td>
+                                    <td>Liberal</td>
+                                    <td>164</td>
+                                    <td>0.33%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Ontario</th>
+                                    <td>Northumberland--Quinte West</td>
+                                    <td>Liberal</td>
+                                    <td>313</td>
+                                    <td>0.54%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Alberta</th>
+                                    <td>Edmonton--Beaumont</td>
+                                    <td>Liberal</td>
+                                    <td>134</td>
+                                    <td>0.33%</td>
+                                  </tr>
+                                </tbody>
+                              </table>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ************* Charts Sidebar ************* -->
+
+            <div class="col-12 col-md-4 mb-4 d-flex align-items-stretch">
+                <div class="container bg-white">
+                    <h4 class="m-2 text-right">Parties</h4>
+                    <hr>
+                    <div class="row">
+
+                        <!-- ********** Parties Charts ********** -->
+                        <div class="col-12 col-sm-6 col-md-12 col-xl-6 mb-4">
+                            <a href="LIB.html">
+                                <figure>
+                                    <img src="../images/history_LIB_bars.svg" class="img-fluid" alt="Liberal Party history">
+                                    <figcaption class="figure-caption text-center">Liberal</figcaption>
+                                </figure>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-12 col-xl-6 mb-4">
+                            <a href="CPC.html">
+                                <figure style="border: 2px solid red; padding: 2px;">
+                                    <img src="../images/history_CPC_bars.svg" class="img-fluid" alt="Conservative Party history">
+                                    <figcaption class="figure-caption text-center">Conservative</figcaption>
+                                </figure>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-12 col-xl-6 mb-4">
+                            <a href="NDP.html">
+                                <figure>
+                                    <img src="../images/history_NDP_bars.svg" class="img-fluid" alt="NPD history">
+                                    <figcaption class="figure-caption text-center">NDP</figcaption>
+                                </figure>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-12 col-xl-6 mb-4">
+                            <a href="BQ.html" >
+                                <figure>
+                                    <img src="../images/history_BQ_bars.svg"  class="img-fluid" alt="Bloc Québécois history">
+                                    <figcaption class="figure-caption text-center">Bloc Québécois</figcaption>
+                                </figure>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-12 col-xl-6 mb-4">
+                            <a href="GRN.html">
+                                <figure>
+                                    <img src="../images/history_GRN_bars.svg" class="img-fluid" alt="Green Party history">
+                                    <figcaption class="figure-caption text-center">Green Party</figcaption>
+                                </figure>
+                            </a>
+                        </div>
+
+                    </div> 
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- ***** Footer ***** -->
+
+    <footer class="page-footer bg-dark text-white-50 fixed-bottom px-3 py-1">
+        <div class="row">
+            <div class="col-auto mr-auto">
+                <small>UT-TOR-DATA-PT-01-2020-U-C Week 11 Homework</small>
+            </div>
+            <div class="col-auto">
+                <small>© Boris Smirnov</small>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Optional JavaScript -->
+    <script src="../js/jquery-3.4.1.slim.min.js"></script> <!-- v3.5.0 is incompatible! -->
+    <script src="../js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

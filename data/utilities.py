@@ -17,6 +17,17 @@ ro2003_fname = 'ro2003.csv' # Representation order 2003 with mappings from FED n
 ro2003_df = pd.read_csv(ro2003_fname)
 provinces_df = pd.read_csv(provinces_fname)
 
+# Elections that we can compare riding-by-riding
+# First group, 2004-2011, corresponds to 2003 representation order (308 ridings)
+# Second group, 2015-2019, coresponds to 2013 representation order (338 ridings)
+# We cannot compare ridings between 2011 and 2015 elections, because the are from differens ROs
+compare_dict = {
+    2006: 2004,
+    2008: 2006,
+    2011: 2008,
+    2019: 2015
+}
+
 # Political Parties Conundrum
 # ============================
 parties_df = pd.read_csv(parties_fname)

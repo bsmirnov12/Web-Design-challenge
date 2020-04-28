@@ -17,7 +17,7 @@
 
     <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
         <a class="navbar-brand" href="../index.html">
-            <img src="../images/Flag_of_Canada_(Pantone).svg" height="30" alt="Flag of Canada">
+            <img src="../images/Flag_of_Canada_(Pantone).svg" height="30" alt="Canadian flag">
             15 years history of canadian political landscape
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -56,7 +56,7 @@
                     <div class="dropdown-menu dropdown-menu-right text-center" aria-labelledby="electionsDropdown">
                         <a class="dropdown-item" href="compare_elections.html">Comparison</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="elections2019.html">2019</a>
+                        <a class="dropdown-item active" href="elections2019.html">2019</a>
                         <a class="dropdown-item" href="elections2015.html">2015</a>
                         <a class="dropdown-item" href="elections2011.html">2011</a>
                         <a class="dropdown-item" href="elections2008.html">2008</a>
@@ -86,23 +86,24 @@
     <div class="container mb-4">
         <div class="row">
 
-            <!-- ************* Party history ************* -->
+            <!-- ************* Elections results ************* -->
 
             <div class="col-md-8 mb-4 d-flex align-items-stretch">
                 <div class="container bg-white">
+                    <!--<div class="row">-->
                     <div class="row d-flex justify-content-start align-items-center m-2">
                         <div class="col-auto">
-                            <img src="../images/LIB_logo.svg" height=40 alt="Liberal Party logo">
+                            <img src="../images/Elections_Canada_Logo.svg" height=40 alt="Elections Canada logo">
                         </div>
                         <div class="col-auto">
-                            <h2>Liberal Party</h2>
+                            <h2>2019 Elections</h2>
                         </div>
                     </div>
                     <hr>
                     <div class="row">
                         <div class="col">
                             <figure class="float-left m-4">
-                                <img src="../images/history_LIB_bars.svg" class="img-fluid" alt="Liberal Party history">
+                                <img src="../images/results_2019_bars.svg" class="img-fluid" alt="2019 Elections Results">
                             </figure>
                             <p>Content here</p>
                         </div>
@@ -111,9 +112,89 @@
                     <div class="row mt-4">
                         <div class="col">
                             <h3>Ridings where the party lost by a small margin</h3>
-                            <p>This table demonstrates, how different could be the layout of seats in the House of Commons if more party supporters came to vote.</p>
+                            <p>This table demonstrates, how different could be the layout of seats in the House of Commons.</p>
 
-                            
+                            <table class="dataframe table table-striped table-sm small">
+                                <thead>
+                                  <tr style="text-align: left;">
+                                    <th></th>
+                                    <th></th>
+                                    <th>Riding</th>
+                                    <th>Lost to</th>
+                                    <th>By # votes</th>
+                                    <th>% of ballots</th>
+                                  </tr>
+                                  <tr>
+                                    <th>Losing party</th>
+                                    <th>Province name</th>
+                                    <th></th>
+                                    <th></th>
+                                    <th></th>
+                                    <th></th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  <tr>
+                                    <th rowspan="2" valign="top">Bloc Québécois</th>
+                                    <th>Quebec</th>
+                                    <td>Hochelaga</td>
+                                    <td>Liberal</td>
+                                    <td>328</td>
+                                    <td>0.61%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Quebec</th>
+                                    <td>Québec</td>
+                                    <td>Liberal</td>
+                                    <td>325</td>
+                                    <td>0.59%</td>
+                                  </tr>
+                                  <tr>
+                                    <th rowspan="5" valign="top">Conservative</th>
+                                    <th>British Columbia</th>
+                                    <td>Coquitlam--Port Coquitlam</td>
+                                    <td>Liberal</td>
+                                    <td>390</td>
+                                    <td>0.67%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Nova Scotia</th>
+                                    <td>Cumberland--Colchester</td>
+                                    <td>Liberal</td>
+                                    <td>453</td>
+                                    <td>0.99%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Ontario</th>
+                                    <td>Kitchener--Conestoga</td>
+                                    <td>Liberal</td>
+                                    <td>365</td>
+                                    <td>0.70%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Ontario</th>
+                                    <td>Richmond Hill</td>
+                                    <td>Liberal</td>
+                                    <td>212</td>
+                                    <td>0.42%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>Yukon</th>
+                                    <td>Yukon</td>
+                                    <td>Liberal</td>
+                                    <td>153</td>
+                                    <td>0.72%</td>
+                                  </tr>
+                                  <tr>
+                                    <th>NDP</th>
+                                    <th>British Columbia</th>
+                                    <td>Port Moody--Coquitlam</td>
+                                    <td>Conservative</td>
+                                    <td>153</td>
+                                    <td>0.28%</td>
+                                  </tr>
+                                </tbody>
+                              </table>
 
                         </div>
                     </div>
@@ -124,48 +205,56 @@
 
             <div class="col-12 col-md-4 mb-4 d-flex align-items-stretch">
                 <div class="container bg-white">
-                    <h4 class="m-2 text-right">Parties</h4>
+                    <h4 class="m-2 text-right">Elections</h4>
                     <hr>
                     <div class="row">
 
-                        <!-- ********** Parties Charts ********** -->
+                        <!-- ********** Elections Charts ********** -->
                         <div class="col-12 col-sm-6 col-md-12 col-xl-6 mb-4">
-                            <a href="LIB.html">
+                            <a href="elections2019.html">
                                 <figure style="border: 2px solid red; padding: 2px;">
-                                    <img src="../images/history_LIB_bars.svg" class="img-fluid" alt="Liberal Party history">
-                                    <figcaption class="figure-caption text-center">Liberal</figcaption>
+                                    <img src="../images/results_2019_bars.svg" class="img-fluid" alt="2019">
+                                    <figcaption class="figure-caption text-center">2019</figcaption>
                                 </figure>
                             </a>
                         </div>
                         <div class="col-12 col-sm-6 col-md-12 col-xl-6 mb-4">
-                            <a href="CPC.html">
+                            <a href="elections2015.html">
                                 <figure>
-                                    <img src="../images/history_CPC_bars.svg" class="img-fluid" alt="Conservative Party history">
-                                    <figcaption class="figure-caption text-center">Conservative</figcaption>
+                                    <img src="../images/results_2015_bars.svg" class="img-fluid" alt="2015">
+                                    <figcaption class="figure-caption text-center">2015</figcaption>
                                 </figure>
                             </a>
                         </div>
                         <div class="col-12 col-sm-6 col-md-12 col-xl-6 mb-4">
-                            <a href="NDP.html">
+                            <a href="elections2011.html">
                                 <figure>
-                                    <img src="../images/history_NDP_bars.svg" class="img-fluid" alt="NPD history">
-                                    <figcaption class="figure-caption text-center">NDP</figcaption>
+                                    <img src="../images/results_2011_bars.svg" class="img-fluid" alt="2011">
+                                    <figcaption class="figure-caption text-center">2011</figcaption>
                                 </figure>
                             </a>
                         </div>
                         <div class="col-12 col-sm-6 col-md-12 col-xl-6 mb-4">
-                            <a href="BQ.html" >
+                            <a href="elections2008.html">
                                 <figure>
-                                    <img src="../images/history_BQ_bars.svg"  class="img-fluid" alt="Bloc Québécois history">
-                                    <figcaption class="figure-caption text-center">Bloc Québécois</figcaption>
+                                    <img src="../images/results_2008_bars.svg" class="img-fluid" alt="2008">
+                                    <figcaption class="figure-caption text-center">2008</figcaption>
                                 </figure>
                             </a>
                         </div>
                         <div class="col-12 col-sm-6 col-md-12 col-xl-6 mb-4">
-                            <a href="GRN.html">
+                            <a href="elections2006.html">
                                 <figure>
-                                    <img src="../images/history_GRN_bars.svg" class="img-fluid" alt="Green Party history">
-                                    <figcaption class="figure-caption text-center">Green Party</figcaption>
+                                    <img src="../images/results_2006_bars.svg" class="img-fluid" alt="2006">
+                                    <figcaption class="figure-caption text-center">2006</figcaption>
+                                </figure>
+                            </a>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-12 col-xl-6 mb-4">
+                            <a href="elections2004.html">
+                                <figure>
+                                    <img src="../images/results_2004_bars.svg" class="img-fluid" alt="2004">
+                                    <figcaption class="figure-caption text-center">2004</figcaption>
                                 </figure>
                             </a>
                         </div>
