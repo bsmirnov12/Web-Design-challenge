@@ -119,7 +119,7 @@
                             <h3>Ridings where the party lost by a small margin</h3>
                             <p>This table demonstrates, how different could be the layout of seats in the House of Commons if more party supporters came to vote.</p>
 
-                            
+                            <!--<div id="almost-table"></div>-->
 
                         </div>
                     </div>
@@ -198,7 +198,13 @@
     </footer>
 
     <!-- Optional JavaScript -->
-    <script src="../js/jquery-3.4.1.slim.min.js"></script> <!-- v3.5.0 is incompatible! -->
+    <script src="../js/jquery-3.4.1.min.js"></script> <!-- v3.5.0 is incompatible! -->
     <script src="../js/bootstrap.bundle.min.js"></script>
+    <script> 
+        $(function(){
+          $("#almost-table").load("BQ_almost_table.html"); 
+        });
+    </script> 
+
   </body>
 </html>
