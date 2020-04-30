@@ -7,6 +7,13 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <style>
+        .carousel-indicators,
+        .carousel-control-next-icon,
+        .carousel-control-prev-icon {
+            filter: invert(1);
+        }
+    </style>
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
@@ -113,7 +120,54 @@
                             <p>Content here</p>
                         </div>
                     </div>
-                    <hr class="w-50"> 
+
+                    <hr> 
+
+                    <div class="row">
+                        <div class="col-12">
+                            <h3>Gains and Losses</h3>
+                            <p>These charts show how many seats the party lost or gained when comparing two consecuitive elections,
+                                as well as its rival parties that won or lost the seats. The comparison is done riding by riding,
+                                and not all consecuitive elections are comparable - in 2013 Elections Canada redefined boundaries
+                                of almost all electoral districts, increasing its number from 308 to 338.</p>
+                            <p>Compare these charts with the chart above to see how the seats were redistributed among the parties
+                                from one election to another</p>
+
+                            <div id="carouselGainsNLosses" class="carousel slide" data-ride="carousel">
+                                <ol class="carousel-indicators">
+                                    <li data-target="#carouselGainsNLosses" data-slide-to="0" class="active"></li>
+                                    <li data-target="#carouselGainsNLosses" data-slide-to="1"></li>
+                                    <li data-target="#carouselGainsNLosses" data-slide-to="2"></li>
+                                    <li data-target="#carouselGainsNLosses" data-slide-to="3"></li>
+                                </ol>
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <img src="../images/gains_LIB_2019_barh.svg" class="d-block w-100" alt="Gains and losses in 2019">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="../images/gains_LIB_2011_barh.svg" class="d-block w-100" alt="Gains and losses in 2011">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="../images/gains_LIB_2008_barh.svg" class="d-block w-100" alt="Gains and losses in 2008">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="../images/gains_LIB_2006_barh.svg" class="d-block w-100" alt="Gains and losses in 2006">
+                                    </div>
+                                </div>
+                                <a class="carousel-control-prev" href="#carouselGainsNLosses" role="button" data-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="sr-only">Previous</span>
+                                </a>
+                                <a class="carousel-control-next" href="#carouselGainsNLosses" role="button" data-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="sr-only">Next</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <hr> 
+
                     <div class="row mt-4">
                         <div class="col">
                             <h3>Ridings where the party lost by a small margin</h3>
@@ -200,6 +254,11 @@
     <!-- Optional JavaScript -->
     <script src="../js/jquery-3.4.1.min.js"></script> <!-- v3.5.0 is incompatible! -->
     <script src="../js/bootstrap.bundle.min.js"></script>
+    <script>
+        $('.carousel').carousel({
+          interval: false
+        })
+    </script>
     <script> 
         $(function(){
           $("#almost-table").load("BQ_almost_table.html"); 
