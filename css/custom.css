@@ -1,0 +1,12 @@
+/* Charts have white background. We need to invert carousel controls to make them visible */
+.carousel-indicators,
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    filter: invert(1);
+}
+
+/* For menue items that are images (parties) and sidebar images of the current page */
+.this-page-link {
+    border: 2px solid #007bff;
+    border-radius: .25rem;
+}

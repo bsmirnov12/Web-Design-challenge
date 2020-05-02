@@ -7,13 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="../css/bootstrap.min.css">
-    <style>
-        .carousel-indicators,
-        .carousel-control-next-icon,
-        .carousel-control-prev-icon {
-            filter: invert(1);
-        }
-    </style>
+    <link rel="stylesheet" href="../css/custom.css">
     <noscript>
         <style>
             .navbar-toggler, .dropdown-toggle, .carousel { display: none; }
@@ -61,7 +55,7 @@
                         <a class="dropdown-item" href="compare_parties.html">Comparison</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="LIB.html"><img src="../images/LIB_logo.svg" height=24 alt="Liberal"></a>
-                        <a class="dropdown-item" href="CPC.html"><img src="../images/CPC_logo.svg" height=24 alt="Conservative"></a>
+                        <a class="dropdown-item this-page-link" href="CPC.html"><img src="../images/CPC_logo.svg" height=24 alt="Conservative"></a>
                         <a class="dropdown-item" href="NDP.html"><img src="../images/NDP_logo.svg" height=24 alt="New Democrats"></a>
                         <a class="dropdown-item" href="BQ.html" ><img src="../images/BQ_logo.svg"  height=24 alt="Bloc Québécois"></a>
                         <a class="dropdown-item" href="GRN.html"><img src="../images/GRN_logo.svg" height=24 alt="Green"></a>
@@ -102,10 +96,10 @@
     <noscript>
         <nav class="navbar bg-white p-0">
             <ul class="nav nav-pills">
-                <li class="nav-item nav-link">Parties:</li>
-                <li class="nav-item"><a class="nav-link" href="compare_parties.html">Comparison</a></li>
+                <li class="nav-item nav-link my-1">Parties:</li>
+                <li class="nav-item"><a class="nav-link my-1" href="compare_parties.html">Comparison</a></li>
                 <li class="nav-item"><a class="nav-link" href="LIB.html"><img src="../images/LIB_logo.svg" height=24 alt="Liberal"></a></li>
-                <li class="nav-item"><a class="nav-link" href="CPC.html"><img src="../images/CPC_logo.svg" height=24 alt="Conservative"></a></li>
+                <li class="nav-item"><a class="nav-link this-page-link" href="CPC.html"><img src="../images/CPC_logo.svg" height=24 alt="Conservative"></a></li>
                 <li class="nav-item"><a class="nav-link" href="NDP.html"><img src="../images/NDP_logo.svg" height=24 alt="New Democrats"></a></li>
                 <li class="nav-item"><a class="nav-link" href="BQ.html" ><img src="../images/BQ_logo.svg"  height=24 alt="Bloc Québécois"></a></li>
                 <li class="nav-item"><a class="nav-link" href="GRN.html"><img src="../images/GRN_logo.svg" height=24 alt="Green"></a></li>
@@ -264,7 +258,7 @@
                         </div>
                         <div class="col-12 col-sm-6 col-md-12 col-xl-6 mb-4">
                             <a href="CPC.html">
-                                <figure style="border: 2px solid red; padding: 2px;">
+                                <figure class="this-page-link">
                                     <img src="../images/history_CPC_bars.svg" class="img-fluid" alt="Conservative Party history">
                                     <figcaption class="figure-caption text-center">Conservative</figcaption>
                                 </figure>
