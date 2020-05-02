@@ -7,6 +7,11 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <noscript>
+        <style>
+            .navbar-toggler, .dropdown-toggle { display: none; }
+        </style>
+    </noscript>
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
@@ -22,7 +27,7 @@
 
     <!-- ************* Navigation bar ************* -->
 
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
         <a class="navbar-brand" href="../index.html">
             <img src="../images/Flag_of_Canada_(Pantone).svg" height="30" alt="Canadian flag">
             15 years history of canadian political landscape
@@ -88,9 +93,46 @@
         </div>
     </nav>
 
+    <noscript>
+        <nav class="navbar bg-white p-0">
+            <ul class="nav nav-pills">
+                <li class="nav-item nav-link">Parties:</li>
+                <li class="nav-item"><a class="nav-link" href="compare_parties.html">Comparison</a></li>
+                <li class="nav-item"><a class="nav-link" href="LIB.html"><img src="../images/LIB_logo.svg" height=24 alt="Liberal"></a></li>
+                <li class="nav-item"><a class="nav-link" href="CPC.html"><img src="../images/CPC_logo.svg" height=24 alt="Conservative"></a></li>
+                <li class="nav-item"><a class="nav-link" href="NDP.html"><img src="../images/NDP_logo.svg" height=24 alt="New Democrats"></a></li>
+                <li class="nav-item"><a class="nav-link" href="BQ.html" ><img src="../images/BQ_logo.svg"  height=24 alt="Bloc Québécois"></a></li>
+                <li class="nav-item"><a class="nav-link" href="GRN.html"><img src="../images/GRN_logo.svg" height=24 alt="Green"></a></li>
+            </ul>
+        </nav>
+        <nav class="navbar bg-white p-0">
+            <ul class="nav nav-pills">
+                <li class="nav-item nav-link">Elections:</li>
+                <li class="nav-item"><a class="nav-link" href="compare_elections.html">Comparison</a></li>
+                <li class="nav-item"><a class="nav-link" href="elections2019.html">2019</a></li>
+                <li class="nav-item"><a class="nav-link" href="elections2015.html">2015</a></li>
+                <li class="nav-item"><a class="nav-link" href="elections2011.html">2011</a></li>
+                <li class="nav-item"><a class="nav-link" href="elections2008.html">2008</a></li>
+                <li class="nav-item"><a class="nav-link" href="elections2006.html">2006</a></li>
+                <li class="nav-item"><a class="nav-link" href="elections2004.html">2004</a></li>
+            </ul>
+        </nav>
+        <nav class="navbar bg-white p-0">
+            <ul class="nav nav-pills">
+                <li class="nav-item nav-link">Data:</li>
+                <li class="nav-item"><a class="nav-link" href="data2019.html">2019</a></li>
+                <li class="nav-item"><a class="nav-link active" href="data2015.html">2015</a></li>
+                <li class="nav-item"><a class="nav-link" href="data2011.html">2011</a></li>
+                <li class="nav-item"><a class="nav-link" href="data2008.html">2008</a></li>
+                <li class="nav-item"><a class="nav-link" href="data2006.html">2006</a></li>
+                <li class="nav-item"><a class="nav-link" href="data2004.html">2004</a></li>
+            </ul>
+        </nav>
+    </noscript>
+
     <!-- ************* Main content ************* -->
     
-    <div class="container bg-white mb-4">
+    <div class="container bg-white my-4">
         <div class="row">
             <div class="col-12 p-4">
                 <h2>2015 Source Data</h2>
@@ -101,6 +143,10 @@
         <div class="row">
             <div class="col-12">
                 <div id="data-table"></div>
+                <noscript>
+                    JavaScript should be enabled to show the table on this page.<br>
+                    The data is available via this <a href="data2015_table.html">link</a>.
+                </noscript>
             </div>
         </div>
     </div>
